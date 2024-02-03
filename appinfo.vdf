@@ -1,0 +1,989 @@
+"appid" "1716740"
+"common"
+{
+	"name" "Starfield"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "ecd69fee20f6a65fb094a8c0b46b79228c145b1a"
+	"logo_small" "ecd69fee20f6a65fb094a8c0b46b79228c145b1a_thumb"
+	"icon" "b4d5828937b2d29b875405dce97bbae0a5d01bbe"
+	"clienticon" "c0c532371420ad1ae1128d6bffce6f21184e42e7"
+	"clienttga" "7460e37ec5bb2473cba0b3d3fa4a739cdde91ffb"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1716740_eula_0"
+			"name" "Starfield EULA"
+			"url" "https://store.steampowered.com//eula/1716740_eula_0"
+			"version" "1"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"has_adult_content" "1"
+	"has_adult_content_sex" "1"
+	"has_adult_content_violence" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1705536000"
+		"tested_build_id" "12905200"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "36.056009334889154"
+			"height_pct" "58.96461648064596"
+		}
+	}
+	"store_asset_mtime" "1694713504"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Bethesda Game Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bethesda Softworks"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Starfield"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_28" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1693958425"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1716740"
+	"store_tags"
+	{
+		"0" "1755"
+		"1" "4182"
+		"2" "122"
+		"3" "1695"
+		"4" "3942"
+		"5" "3834"
+		"6" "3839"
+		"7" "1742"
+		"8" "4106"
+		"9" "4747"
+		"10" "1697"
+		"11" "21"
+		"12" "4231"
+		"13" "4166"
+		"14" "16598"
+		"15" "19"
+		"16" "1669"
+		"17" "4145"
+		"18" "4175"
+		"19" "1756"
+	}
+	"review_score" "5"
+	"review_percentage" "60"
+}
+"extended"
+{
+	"developer" "Bethesda Game Studios"
+	"publisher" "Bethesda Softworks"
+	"listofdlc" "2401180,2401181"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Starfield"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Starfield.exe"
+			"type" "default"
+		}
+	}
+	"app_mappings"
+	{
+		"1"
+		{
+			"platform" "linux"
+			"tool" "proton_experimental"
+			"comment" "proton fixes"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,spanish,schinese,japanese,polish,brazilian,latam"
+	"hasdepotsindlc" "0"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1716741"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2722084001522154323"
+				"size" "191968297"
+				"download" "68163648"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "C59760D2CC9472BF02EF8B12C70DD91A"
+				"size" "45296ABFC5B9BCEF3F3AAD4D9FB73582"
+				"download" "EBD2D2F6A91F48FD447703B88A042957"
+			}
+			"dev_tech"
+			{
+				"gid" "D33FD9FF6F029EEB604DF20E8AC30B3F"
+				"size" "827773B8125461B31856DAC217231F0D"
+				"download" "7E474313C5EF765B3B19A171D2E87442"
+			}
+			"flight"
+			{
+				"gid" "FA46D8059EEF1C8B9BAFB40B90946BBA"
+				"size" "20854DE1826C844068EEF919B16D894E"
+				"download" "2951E0486CF687AA55E549EAF2DC91E0"
+			}
+			"green"
+			{
+				"gid" "7F90F2E76C9156DED31624D991CCAD16"
+				"size" "0DE39CBF5D96CD6ABB20E28F09C58F4E"
+				"download" "CC8D8AD901061196C155F64F2240CFB1"
+			}
+			"internal"
+			{
+				"gid" "7CA05434B80B89BDEF41ADF72B0C96A7"
+				"size" "B0AB77E4A62C304302FD4159AC13A5E4"
+				"download" "61FCDA049FCDD0F56C02E01CA56777FE"
+			}
+			"press_reviews"
+			{
+				"gid" "AABF353F897ACBAD2EA5980393ECC506"
+				"size" "FC486DBD3A73B81C0703A72FADB0DA68"
+				"download" "1CAE5F2304B8047F7A8CDBF7C12B7D97"
+			}
+			"qa_staging_main"
+			{
+				"gid" "48B1B712CEDF064EC745538C5D8BD1BE"
+				"size" "0A3352C56B054ADCFBB9055BDA8F4BEC"
+				"download" "D484C8A6475578733A608BA1F81A9690"
+			}
+			"qa_staging_main_debug"
+			{
+				"gid" "DE3332B0EFBB65D3FCFB624FBE0FF7BB"
+				"size" "FEB6258D89964CAC3E240568135D2EEE"
+				"download" "293762F7EEE2807A342756D693CA4756"
+			}
+			"qa_staging_rc"
+			{
+				"gid" "71643BDEFBADFB925448D70BC427056C"
+				"size" "00100E89044BFAFA67FB8E6820C91ABA"
+				"download" "AA8D34EFD4D6C8DA4EF380814276C4DC"
+			}
+			"ratings"
+			{
+				"gid" "B45F5F38699BA7150D0957705FB00721"
+				"size" "39964AE9AC4CF1AE0CA0A39A61BF4E66"
+				"download" "CA597DB008AB3E170909F36D3A23FF1A"
+			}
+		}
+	}
+	"1716742"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4019204681563902039"
+				"size" "126716683324"
+				"download" "93681096192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "021BAC80C897F136886440CFBA84A42F"
+				"size" "0628AF1EB82947160F6A279583F5ECF8"
+				"download" "AA763880886118FA18CA4DA11468BF61"
+			}
+			"dev_tech"
+			{
+				"gid" "6531CE546AD15A1E480A97F895292BBD"
+				"size" "714C6A3FABAFEA69D4166C0BB2928B78"
+				"download" "884AA0F47527367C14C707CA257497D7"
+			}
+			"flight"
+			{
+				"gid" "8DD19A99E03C7311BF1DF62108175C92"
+				"size" "E2ED0EE1B8F8EFD9F5269521CF55AB1A"
+				"download" "164DEDADD52F2D66B2B4F572AE9B52DB"
+			}
+			"green"
+			{
+				"gid" "780988A3D180CD402E8EF568CF5ECAC5"
+				"size" "76328E65BF70D54E597BCB38D58385A0"
+				"download" "695FFEFDF9D35DAD47E050F49DD48F34"
+			}
+			"internal"
+			{
+				"gid" "BF1C8256508736A544DEC21937F2AA72"
+				"size" "CE9358FE476F9C286C945E8FACFABD06"
+				"download" "5189B8E68E35F3BBD9D9870F8DC6C805"
+			}
+			"press_reviews"
+			{
+				"gid" "3679E9E74FEE17D7B36257212A976FC6"
+				"size" "BF1779AD9A7DC7BDE03747EAB6A3452B"
+				"download" "9E0E2737E8D8835E4DC7465BE76B2832"
+			}
+			"qa_staging_main"
+			{
+				"gid" "5BA29ED1907514A0355A53FEFAE5388A"
+				"size" "2A74D65A77E02CA0BACB4DB24FF5E201"
+				"download" "D0A3FC19162F60D27CD78FCE777531FC"
+			}
+			"qa_staging_main_debug"
+			{
+				"gid" "93FE5431EE2EC84D1255D41CA4198156"
+				"size" "32226935FC3FCE3B0E36CBF8726B34BD"
+				"download" "3ABADD92238313DC008E9266D1F5BD88"
+			}
+			"qa_staging_rc"
+			{
+				"gid" "8456A91CA732CC94ED3E57C6DCCFE51C"
+				"size" "D5DCCD44692FBE908B84F9AFBE3A69D4"
+				"download" "44DB97B522065E957EC279CD7D096CCF"
+			}
+			"ratings"
+			{
+				"gid" "18CE9A76FC2649DB3E191ADCE92C2286"
+				"size" "2BC10673CE71CA19854FBB721EE5582B"
+				"download" "B519E6CB8E7AAED1A20928B61E56C6FF"
+			}
+		}
+	}
+	"2401180"
+	{
+		"dlcappid" "2401180"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1350450549444461803"
+				"size" "50772412"
+				"download" "51092320"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "493BEE3F5A937613175F7BB762037A3F"
+				"size" "82B60CE543EA08708623E00782B0ECD9"
+				"download" "365DC6D80134A363E5716E65D6111D1E"
+			}
+			"press_reviews"
+			{
+				"gid" "46F938B96919115839A408530009E991"
+				"size" "73AB35886EB8D1A24C2C9CB49471D148"
+				"download" "D6F0A11E4BB995CCE2AC461236DAB65E"
+			}
+			"qa_staging_main"
+			{
+				"gid" "42AFF0975E38EFD24E23FE4C3EDC42A2"
+				"size" "F844EFCE66A2CC769122F564A6C47A6D"
+				"download" "C6414CB7F02D01DCF114CC7D74C55520"
+			}
+			"qa_staging_main_debug"
+			{
+				"gid" "1DA7BBEF87D22A010C97B4902A71C156"
+				"size" "B112C11389BC024FA143772F6A563E4D"
+				"download" "EC284A0CC2794DE347E450829F682E3B"
+			}
+			"qa_staging_rc"
+			{
+				"gid" "A79D40728F352BB656E7ACAEA670AA26"
+				"size" "DF9FCDE48454B48C61D982FB2092450F"
+				"download" "6305A48FDEDF7C4F7BB2E1A84E10AB83"
+			}
+		}
+	}
+	"2401181"
+	{
+		"dlcappid" "2401181"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9009164480135609609"
+				"size" "14760227"
+				"download" "14823792"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "09B64050DE61F1A8948A766CB9738F7D"
+				"size" "7358470B812F111039E9E83FB26F9928"
+				"download" "20556EF265557833CF39D93A098AEB5A"
+			}
+			"dev_tech"
+			{
+				"gid" "ECFF6EDE0E25A0B85C22F4D88D57B5CC"
+				"size" "361D0583E1B6A15913C8F99B8764489D"
+				"download" "FFD597745473C8DD46769F436BC11793"
+			}
+			"press_reviews"
+			{
+				"gid" "8BEEE1868AA79E4F9F4A14D9681C3583"
+				"size" "0052721AB1C333DFDB17485CDD9CD355"
+				"download" "6B45DAE9F270067FA2BD286AFADCD5B4"
+			}
+			"qa_staging_main"
+			{
+				"gid" "0A9C275C6D817E6733E80E9135772955"
+				"size" "E1322AFA4870C1BD3DCAF640F7475DCE"
+				"download" "9E6797A15998E247D235A93786B3C4E4"
+			}
+			"qa_staging_main_debug"
+			{
+				"gid" "0FB5666152237C7ECDBF4E6A4445D366"
+				"size" "CB8430461863EA67D0146D357C4FDD09"
+				"download" "09929D16CE6F528BB05CD92C827BA211"
+			}
+			"qa_staging_rc"
+			{
+				"gid" "BFE0327EF2A4943DE34B72629E7E1A99"
+				"size" "9DB91D3B175EB9FB9E798A5670D8E2E8"
+				"download" "60DA2A56975F27A56ACE2DC415D433B4"
+			}
+		}
+	}
+	"1716743"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1387979402837597913"
+				"size" "6171029640"
+				"download" "6109484544"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "C7A6A24011E52DB023E286155E49BC3B"
+				"size" "D150CEDC407CCDA152A0D8397D379C3A"
+				"download" "CAFFB531CD2C4AF9F2B13140E283BDC0"
+			}
+			"dev_tech"
+			{
+				"gid" "5C1D99B70AC88792244D5B2CF0D4385B"
+				"size" "7F84933F735C1599783BBEDF039FA28F"
+				"download" "6E993DB720C154F895AAB1CB618CBFA9"
+			}
+			"flight"
+			{
+				"gid" "94BA7E9444D48379D8DC6BFEBEA64D14"
+				"size" "8E6C92CD52FDF7D6A5F6E86EE63B345F"
+				"download" "80D2686E62FFC4A06AC6596877BB9FD5"
+			}
+			"green"
+			{
+				"gid" "DDFE84C4BFD145F7D94D963D08BE812D"
+				"size" "2F1F36A81999DFB1B849BDCD053E58E8"
+				"download" "94DB36270A57BA3746EF55B3F090F27A"
+			}
+			"internal"
+			{
+				"gid" "A3E8F4A22578FEC01E775B0973124352"
+				"size" "BD42E74A3D8CD410EAB88EC902E870BC"
+				"download" "92341E571C99483819299101DEF5CBEE"
+			}
+			"press_reviews"
+			{
+				"gid" "E3DD666EEF49CCE8E16D327B51CF2DB4"
+				"size" "201D29E55A4E69F85CE13C3E9FE63F3B"
+				"download" "3F4D3C451F01A3DE5BB44EE2A83DAA20"
+			}
+			"qa_staging_main"
+			{
+				"gid" "2FAC881DD1278391F50F912E7B2BC6F7"
+				"size" "59B3187976E7E14B21CB88D257189214"
+				"download" "359EC12F2D95AE14CBE79D6D8A09B0B1"
+			}
+			"qa_staging_main_debug"
+			{
+				"gid" "DDD6E05DD0E8FE9A38AC8CF0319A434A"
+				"size" "3B6F69EF9D9CAEF12662E5F8961CEF15"
+				"download" "406659894BE3924980FD4775BD7205BC"
+			}
+			"qa_staging_rc"
+			{
+				"gid" "4E56E5448AA8FE61F4B9AA529CF39700"
+				"size" "BE05A2D48B6AFFDC88EEFA0F20E64CDF"
+				"download" "123A3FEE0BA2A9AE56568F5139D0B6B3"
+			}
+			"ratings"
+			{
+				"gid" "0139C7F019E0360ECC16F749B810F391"
+				"size" "C7F63C2BF384996352B86655004182F0"
+				"download" "F1030C20576607800A2E09FE124D1D8F"
+			}
+		}
+	}
+	"1716744"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9119139720043689"
+				"size" "6692291143"
+				"download" "6639113952"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "E93F0174F04F3D0F6E79C721B363BB17"
+				"size" "1DE70FA38C0453D45D99607C2148F4A6"
+				"download" "397ADEF4F758BC8AD95F2C7CABAB58BF"
+			}
+			"dev_tech"
+			{
+				"gid" "9073DD863E70A9420B9A72BA7C2768CF"
+				"size" "16BF2D059701796D81D69A054D1228E3"
+				"download" "3ACBE353A1C498F0D24C4BABB8A3A288"
+			}
+			"flight"
+			{
+				"gid" "DD4C405B5A5CA66F348BBA1F8BCABD20"
+				"size" "ED129740EA130AF0E2AE2D10C47428CD"
+				"download" "DB9143B3F25E6F7E83EBA21A8C4EE9CF"
+			}
+			"green"
+			{
+				"gid" "4FDC78C5CF972E11E1F61EAE1FBE71B1"
+				"size" "92F940A81A97C69084FC54DC3F0B6609"
+				"download" "F31DEE5282001E65E954963E0E37037D"
+			}
+			"internal"
+			{
+				"gid" "A52BF6ECBB1368942CB734EBADD45D6C"
+				"size" "BAB83AB8A7AD4B711FCA2475892CB154"
+				"download" "0AA2D58D58BA1C3F56ED98F599843EFE"
+			}
+			"press_reviews"
+			{
+				"gid" "1D5F0AEC7D0FEBB405B2FBBF7F29A40C"
+				"size" "1745399A29E934624217C5B1AD4553B9"
+				"download" "02FC13DF3D045284870A29694ED27D15"
+			}
+			"qa_staging_main"
+			{
+				"gid" "C04780B691D028B34B3405A198A37E50"
+				"size" "8BA5EB21F0742B8E698BF9126F09EE95"
+				"download" "B10DC2442C1FA1328AC9F303041EFF51"
+			}
+			"qa_staging_main_debug"
+			{
+				"gid" "E1314E60FEB4F4936ECCAB6E3DB3DB87"
+				"size" "AB211B54D3EA73F1D0A6F004F8B77DB2"
+				"download" "5591BBF37303173CB070FE9EF82539F5"
+			}
+			"qa_staging_rc"
+			{
+				"gid" "56D0D3525EF81D74D53A6947CDD95B66"
+				"size" "45C1F661C2EE6DB679AAAFE7E2463C22"
+				"download" "927CC9B8E6C306A1643C92BC58850EB0"
+			}
+			"ratings"
+			{
+				"gid" "18CA8BE4C24379BEBF1E8DA5467CF3AA"
+				"size" "813B99D834C3B16925DFEEC35B0520EF"
+				"download" "76EC26E7363E22232AA096407DF5A7F2"
+			}
+		}
+	}
+	"1716745"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "49152205735522025"
+				"size" "5693825089"
+				"download" "5626266352"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "CB4B8E28C881DC3D2556BCF5EA32EDD0"
+				"size" "51D9CE94ABC69DF9DDFA7B516974EE3B"
+				"download" "363343A48CB0AF560D9753C4855A7811"
+			}
+			"dev_tech"
+			{
+				"gid" "677F74A83613ACCCFEC3E01F0D26BB10"
+				"size" "9BAC75BA3BB18F9F6278D8DFB07EDC74"
+				"download" "BDDC0E248E4FC8AB0C668E4C89E479EE"
+			}
+			"flight"
+			{
+				"gid" "BC04433D53C6981029576511769A7698"
+				"size" "6937975114B46C262484A9DDE206E28F"
+				"download" "B1BD2D19FF943FE3F57E0135202AA131"
+			}
+			"green"
+			{
+				"gid" "A0D226C412CE0EEEA2CD516ADD6A4F3E"
+				"size" "DE9A12E507EA032E3367B0E85BB7F21E"
+				"download" "14A43FACE0ED65380AF71AEBA8AE12AE"
+			}
+			"internal"
+			{
+				"gid" "5F791C9D5B634932D721D20F445BD081"
+				"size" "233416E50F429A1856F568D5A7DCF5AB"
+				"download" "D7B125343F05EDC51492F9D5F1F63A6E"
+			}
+			"press_reviews"
+			{
+				"gid" "27CDD403138AD04870C590CCF8042A6E"
+				"size" "BE0CA91B206B6C54C0C048241D19CF92"
+				"download" "8EA359B1454773AB58F94CAD645D4AEE"
+			}
+			"qa_staging_main"
+			{
+				"gid" "BA1941CB5C0FFDA91BB252A9620ACA78"
+				"size" "CCDCBE8457BF60B016A45704F327A998"
+				"download" "CEAFB2DE5355106544DF26C0E21C63B9"
+			}
+			"qa_staging_main_debug"
+			{
+				"gid" "8DADDC5EDAB599828CCA21B3A19A0D46"
+				"size" "B0EF2271758D81F6364340F9F790809C"
+				"download" "5ACC46271C6B16EE0CAF2B157DAF324F"
+			}
+			"qa_staging_rc"
+			{
+				"gid" "82A9AA08CEA231C528C094CCE2952D7D"
+				"size" "A5D574C8704D55D2CD7FFC08C836C911"
+				"download" "2A6D4E962A50988A283748F06BA6EC6C"
+			}
+			"ratings"
+			{
+				"gid" "FAB06029ECFC58AAC41BAFF15380E2D2"
+				"size" "84B03D77780760471BCCF4AABFF0CCDE"
+				"download" "053AAA2791DB7138DCE9FBECC6AF1002"
+			}
+		}
+	}
+	"1716746"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "368290947271852609"
+				"size" "6365643809"
+				"download" "6292849824"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "26B1C67808B68F14772EE0483197ABB4"
+				"size" "13E140342D5B12AB070082D12589AC0A"
+				"download" "B6332B358B79E11164202ADA98E58D28"
+			}
+			"dev_tech"
+			{
+				"gid" "AAA6113ED4BFDC367096200FB988D9B5"
+				"size" "7EBD008164A8B1F6F891FD629D86960C"
+				"download" "972EEB7C60B37A693B19C8CD331AEB82"
+			}
+			"flight"
+			{
+				"gid" "4B332A924C800784CCE66BBB323A3E55"
+				"size" "F91038FC559FF66DB90EEC7F25AF7D55"
+				"download" "C3A5C3E940FB89149423260163EECD8A"
+			}
+			"green"
+			{
+				"gid" "66BEE7649CEA89F5062941CC2731D5DC"
+				"size" "9430D4B2BFFDB7D6441FD375A0D9878B"
+				"download" "147260236C32DA0451F3C4F262EDAF76"
+			}
+			"internal"
+			{
+				"gid" "9B9F46E76EA11581C8821E92CA4EE025"
+				"size" "2F00FFC55598DD01536B25510882E3BC"
+				"download" "8A09161D35349911E0170858C49C0EFB"
+			}
+			"press_reviews"
+			{
+				"gid" "6F6D6CEF287D78A828EBCF6D405333EA"
+				"size" "11047240601C327D5B575BD94B3C98F6"
+				"download" "7B628D01BB0BCB98B1115A405D6A08E4"
+			}
+			"qa_staging_main"
+			{
+				"gid" "8E6E963E9BC5740C239090C57F485DC6"
+				"size" "7AE3CB54E746C5D7969CBC03D1704E21"
+				"download" "0A4FEB42BD687A0EAA242DA69461CDBD"
+			}
+			"qa_staging_main_debug"
+			{
+				"gid" "96B577E9937A909740A9AA3C3BDE8349"
+				"size" "6F27E19AA07D4EA4B020768D34380F67"
+				"download" "E61E7857EB77481A56363079EC28CE56"
+			}
+			"qa_staging_rc"
+			{
+				"gid" "9B71877824157736E1E8BA538F025611"
+				"size" "D9CA825B214A8B782E797214E20BB6A1"
+				"download" "992FC0A842A57CBF7F1EDF658D4A7E4C"
+			}
+			"ratings"
+			{
+				"gid" "F91A23D95CEB6E5C22FD2C7D421B51EA"
+				"size" "C945B6A48360EE5D61A5A771E633D33E"
+				"download" "B990DD3CF022794A5CFC16A6FBAF56D0"
+			}
+		}
+	}
+	"1716747"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "64361916055513149"
+				"size" "6365643809"
+				"download" "6292849824"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "96D06FF56172948F9847DDE2A53D2560"
+				"size" "13E140342D5B12AB070082D12589AC0A"
+				"download" "B6332B358B79E11164202ADA98E58D28"
+			}
+			"dev_tech"
+			{
+				"gid" "5E72CD147149DC0BFF46DDB516556F1A"
+				"size" "7EBD008164A8B1F6F891FD629D86960C"
+				"download" "972EEB7C60B37A693B19C8CD331AEB82"
+			}
+			"flight"
+			{
+				"gid" "8DE693476D7BF29004603F8B1DFD843F"
+				"size" "F91038FC559FF66DB90EEC7F25AF7D55"
+				"download" "C3A5C3E940FB89149423260163EECD8A"
+			}
+			"green"
+			{
+				"gid" "960994992B389A480CFB0C73805C8C4C"
+				"size" "9430D4B2BFFDB7D6441FD375A0D9878B"
+				"download" "147260236C32DA0451F3C4F262EDAF76"
+			}
+			"internal"
+			{
+				"gid" "277144C96911BA5DCC1D917854411318"
+				"size" "2F00FFC55598DD01536B25510882E3BC"
+				"download" "8A09161D35349911E0170858C49C0EFB"
+			}
+			"press_reviews"
+			{
+				"gid" "36640189D6900CCD80891EB658376097"
+				"size" "11047240601C327D5B575BD94B3C98F6"
+				"download" "7B628D01BB0BCB98B1115A405D6A08E4"
+			}
+			"qa_staging_main"
+			{
+				"gid" "A33C16A90CDBBAA7A819697EA49338A2"
+				"size" "7AE3CB54E746C5D7969CBC03D1704E21"
+				"download" "0A4FEB42BD687A0EAA242DA69461CDBD"
+			}
+			"qa_staging_main_debug"
+			{
+				"gid" "0D6992D5641E38E17A9E5046E1C1D30E"
+				"size" "6F27E19AA07D4EA4B020768D34380F67"
+				"download" "E61E7857EB77481A56363079EC28CE56"
+			}
+			"qa_staging_rc"
+			{
+				"gid" "BA8B54B5049D226C231C35771E4944F3"
+				"size" "D9CA825B214A8B782E797214E20BB6A1"
+				"download" "992FC0A842A57CBF7F1EDF658D4A7E4C"
+			}
+			"ratings"
+			{
+				"gid" "F6D4010FE409C4DC2218D97C2A68753B"
+				"size" "C945B6A48360EE5D61A5A771E633D33E"
+				"download" "B990DD3CF022794A5CFC16A6FBAF56D0"
+			}
+		}
+	}
+	"2721670"
+	{
+		"dlcappid" "2721670"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13256085"
+			"timeupdated" "1706630483"
+		}
+		"beta"
+		{
+			"buildid" "13209562"
+			"pwdrequired" "1"
+			"timeupdated" "1705593680"
+		}
+		"dev_tech"
+		{
+			"buildid" "13347187"
+			"pwdrequired" "1"
+			"timeupdated" "1706877769"
+		}
+		"flight"
+		{
+			"buildid" "13255087"
+			"pwdrequired" "1"
+			"timeupdated" "1706115448"
+		}
+		"green"
+		{
+			"buildid" "13203901"
+			"pwdrequired" "1"
+			"timeupdated" "1705693060"
+		}
+		"internal"
+		{
+			"buildid" "12423625"
+			"pwdrequired" "1"
+			"timeupdated" "1698167966"
+		}
+		"press_reviews"
+		{
+			"buildid" "12051365"
+			"pwdrequired" "1"
+			"timeupdated" "1693242090"
+		}
+		"qa_staging_main"
+		{
+			"buildid" "13342077"
+			"pwdrequired" "1"
+			"timeupdated" "1706838261"
+		}
+		"qa_staging_main_debug"
+		{
+			"buildid" "13342148"
+			"pwdrequired" "1"
+			"timeupdated" "1706838802"
+		}
+		"qa_staging_rc"
+		{
+			"buildid" "13256085"
+			"pwdrequired" "1"
+			"timeupdated" "1706074324"
+		}
+		"ratings"
+		{
+			"buildid" "11464221"
+			"pwdrequired" "1"
+			"timeupdated" "1686777713"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1073741824"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "22170075"
+"_sha" "5ccb257d3a3190b06f118ce68861a1a63b5516ec"
+"_size" "22340"
