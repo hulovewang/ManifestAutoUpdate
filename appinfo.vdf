@@ -1,0 +1,668 @@
+"appid" "1040230"
+"common"
+{
+	"name" "Curious Expedition 2"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "7a7bcab0f8ff7f6ac90b2bf46f7f61fdc3416c65"
+	"logo_small" "7a7bcab0f8ff7f6ac90b2bf46f7f61fdc3416c65_thumb"
+	"icon" "599e76e64a353891604cbd82c9c556e16f9189f4"
+	"clienticon" "96217decd44f91a0e62d067d2238a20959b88ea4"
+	"clienttga" "ab6bfc42e6cad4d02dbc5db372c1d7bf8c5f8531"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "奇妙探险队2 Curious Expedition 2"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1650672000"
+		"tested_build_id" "8557864"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Curious Expedition 2"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "41.82509505703422"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1663233199"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Maschinen-Mensch"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Thunderful Publishing"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Curious Expedition"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_29" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1611831590"
+	"metacritic_score" "76"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/curious-expedition-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1040230"
+	"store_tags"
+	{
+		"0" "1677"
+		"1" "17389"
+		"2" "1751"
+		"3" "1741"
+		"4" "1770"
+		"5" "4305"
+		"6" "4325"
+		"7" "44868"
+		"8" "1742"
+		"9" "4182"
+		"10" "3834"
+		"11" "3959"
+		"12" "17305"
+		"13" "122"
+		"14" "1716"
+		"15" "9"
+		"16" "5160"
+		"17" "32322"
+		"18" "3871"
+		"19" "5125"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "Maschinen-Mensch"
+	"publisher" "Thunderful Publishing"
+	"homepage" "https://curious-expedition.com/"
+	"listofdlc" "1690330,1751920,1751921"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Curious Expedition 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "CE2.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,koreana,schinese,japanese"
+	"hasdepotsindlc" "1"
+	"1040231"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2373381193349904798"
+				"size" "2681716375"
+				"download" "1678120192"
+			}
+			"stable"
+			{
+				"gid" "2920211979750311426"
+				"size" "2682345006"
+				"download" "1678105456"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"closedbeta"
+			{
+				"gid" "CC76B4FE29EE5A6BE889156368035B8C"
+				"size" "56D765689ACD0782D006117F106AD8E9"
+				"download" "08D00B7E1BB23CF5F38ABD9D21FF6F4E"
+			}
+			"demo"
+			{
+				"gid" "CA3E13EBC60A23FA0EB8B34364960850"
+				"size" "2DFA8A1C39432F8CD669C490BBBBDB5D"
+				"download" "D7B10515F83F4D6D65A0F82FD8EE11BA"
+			}
+			"devv"
+			{
+				"gid" "42AB10991E34E992393758CC10416E1F"
+				"size" "A2E5B5F0D45542A0AE6E9C329E22D2B8"
+				"download" "AFB4968C1D4DEE1A75B395204D00E997"
+			}
+			"internal"
+			{
+				"gid" "594909D13F7103C7B3403E58B96ABF74"
+				"size" "29FA96D7589C469B6E0DEBA2736306F9"
+				"download" "AFA75C1FB60846CA4ABF78417EF7C5AF"
+			}
+			"internalmasterrelease"
+			{
+				"gid" "76260F41E9804275BC123ACC5B3F406D"
+				"size" "DE074A501CDCF111F213F072AE190DD8"
+				"download" "AB7BA3EA2BDF31F2915D25B182D9464D"
+			}
+			"internalrelease"
+			{
+				"gid" "A6210727F7E670387EF391F346E9EB22"
+				"size" "314A428EFDEEA21125AB15F0681A2842"
+				"download" "9A065F730712D492215B50761738FE19"
+			}
+			"internalreleasedev"
+			{
+				"gid" "31536DF2F381BF74E3A0AD8312C9FC55"
+				"size" "27B5128A3E95CCB758A2A78C54C6D176"
+				"download" "B0013BBA1D810ACB2A7E91B97B92B8BC"
+			}
+			"lqa_dev"
+			{
+				"gid" "30696C539DC14DFDE8F9DCA046FF0700"
+				"size" "B2556C11C09DE2155ADAAB5390021FF8"
+				"download" "D8538F7D742AF61426D38EEBA24BFEAE"
+			}
+			"nightly_qa"
+			{
+				"gid" "CEDC215DC5FA6F58ABC4D826CDF715C4"
+				"size" "946D0FFAE315CB73342A3AC7C402530E"
+				"download" "C28BEA760FBFC71D349C48B6CC6309C9"
+			}
+			"nightly_qa_release"
+			{
+				"gid" "36534CC6E9E576941E2915C2B190C5A6"
+				"size" "2BD28E00725C850CCAD3E6691D6FE40A"
+				"download" "722344FC24DB57615FF9701D5C2C59C2"
+			}
+			"trailer"
+			{
+				"gid" "9104B581ADE734236909EDAF8A920158"
+				"size" "0ABFB251E63765E22F1613C68CD99397"
+				"download" "15D1DF6CCBB558C44F79382E1816E58D"
+			}
+		}
+	}
+	"1690330"
+	{
+		"dlcappid" "1690330"
+		"config"
+		{
+			"osarch" "64"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7813317978221018167"
+				"size" "140555490"
+				"download" "126970560"
+			}
+			"stable"
+			{
+				"gid" "1982114221910984505"
+				"size" "140555480"
+				"download" "126970672"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"closedbeta"
+			{
+				"gid" "5C66B98C06318499567E651CFD64B950"
+				"size" "55F6846CC1B221ACE2E1620C50041A85"
+				"download" "9E96F613FC8D20F55706EB07A65621FB"
+			}
+			"devv"
+			{
+				"gid" "9C8B4A410CD964A1AA87924751192631"
+				"size" "472E3E0F3070F1A77FB7FB5A60D4154A"
+				"download" "049F048275AECD54BEB737C3573111E2"
+			}
+			"internal"
+			{
+				"gid" "22E7A311ECB5AC9E00A58971049DB34A"
+				"size" "AF9626E9FE32496056C35A750EF1D96F"
+				"download" "D8F8A3C95016904188A62471913E4225"
+			}
+			"internalrelease"
+			{
+				"gid" "4BBD71BF685DA266E48F5B202AF9ED61"
+				"size" "F825423F8A37007B49599BE53F869676"
+				"download" "4701D67BDF90646DEE748E2EE4F1991A"
+			}
+			"internalreleasedev"
+			{
+				"gid" "E698D744F83A8CC05ADAB528B2D8A9D0"
+				"size" "0F9A057573984187B575EABC222456EF"
+				"download" "5BDCC7BF47335BB00B35BB3D5A363C5D"
+			}
+			"lqa_dev"
+			{
+				"gid" "4A4B6B0C5B8E0C046A8829BC35F7187F"
+				"size" "E0306865644DC69247B7761A24EC030F"
+				"download" "3F50244370AB5CA491F08FD04827523D"
+			}
+			"nightly_qa"
+			{
+				"gid" "FD54C103F11340289781A8EA4C139299"
+				"size" "6D1A2B5C4B427EBCEF6633FE1D3B9820"
+				"download" "3352640ED9E56F77F2E6E5E84EF1DF84"
+			}
+			"trailer"
+			{
+				"gid" "EC99B5E141D0CE5440AE1A268373910D"
+				"size" "1133483F0CF95F172850CA2992A002D9"
+				"download" "41638380CC0BED8F504AC9F4DAB2DA61"
+			}
+		}
+	}
+	"1751920"
+	{
+		"dlcappid" "1751920"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6473517863356207693"
+				"size" "232068987"
+				"download" "205442224"
+			}
+			"stable"
+			{
+				"gid" "2468119981966978419"
+				"size" "232068999"
+				"download" "205442480"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"closedbeta"
+			{
+				"gid" "C04BF00F735311D75455E095C259102B"
+				"size" "91150D7CF36E63EC7BF1ABD5AF1AE013"
+				"download" "A7B65F841D36F61CCE434A97756086CC"
+			}
+			"devv"
+			{
+				"gid" "F6760CC89FB611B84EB0A030E7C276F3"
+				"size" "8813C733E1CCDC2DD5756C4BB137E199"
+				"download" "9A35F79462F4AA108DE1DDDE7720631A"
+			}
+			"internal"
+			{
+				"gid" "CB62283725B6C8D45D16E0198D0B23D3"
+				"size" "77D88169F626AB06CFE0F543F7686F8F"
+				"download" "2830E9243D09CE866FAA8EBCEA4A9BF9"
+			}
+			"internalrelease"
+			{
+				"gid" "5E8DC75C6AA3EDE7AD0EF7EAC2CDE357"
+				"size" "8B60AC604E28213F84DD29A6CF83FB3F"
+				"download" "B91997B09A75DB36A32B61F88D95E8D7"
+			}
+			"internalreleasedev"
+			{
+				"gid" "FB71222A7DDCDB10DF26F6245F0014CA"
+				"size" "542AA9F5B043282284089BEC4BC1F02D"
+				"download" "C9ADACF892C4A96B5A8403D516FDB4C7"
+			}
+			"lqa_dev"
+			{
+				"gid" "DF25A2BE558296FBEFD1BECD9CC5600B"
+				"size" "50A6E6C2CD3D0870C72225E051715674"
+				"download" "50A6E6C2CD3D0870C72225E051715674"
+			}
+			"nightly_qa"
+			{
+				"gid" "6CDC173A842706AF9CCCC7847DE01AA6"
+				"size" "A0E49D14A8D4FFA229097FD966FD0AB8"
+				"download" "E1463374137F8D6C5CC5F82E7E88B8FA"
+			}
+			"trailer"
+			{
+				"gid" "AF51BCCF792DB7223DFF770BCA598290"
+				"size" "DB0A6F41685393E8D3AA4917AD9A6699"
+				"download" "705A24103227AECC8253DEBDFE2254E3"
+			}
+		}
+	}
+	"1751921"
+	{
+		"dlcappid" "1751921"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "682037767831577990"
+				"size" "49755182"
+				"download" "39007872"
+			}
+			"stable"
+			{
+				"gid" "8967250724734539988"
+				"size" "49755189"
+				"download" "39007792"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"closedbeta"
+			{
+				"gid" "C9139D95A10A1E31A75EEDF46D29004C"
+				"size" "09A228E6EBF52EBF06E8B78A02F18DEC"
+				"download" "2CFC73F62E89EB18DDFFAFAE2817EB01"
+			}
+			"devv"
+			{
+				"gid" "492C1FE19A71C33AF498A37D79D4A28D"
+				"size" "B182BA1EC8E399CCCE0AEB2DD4B11ECE"
+				"download" "5C822608C0E1E2C0B775DA4596930ADA"
+			}
+			"internal"
+			{
+				"gid" "94A8E67442F7F857503C350C017D50DD"
+				"size" "28677EB78202432E22F43CDECBF76A0B"
+				"download" "26F7B6ED40A950B6B700C6D26CF4F8A8"
+			}
+			"internalrelease"
+			{
+				"gid" "18E79353D8CF1F95D69B2894851C2220"
+				"size" "D03BA47062FB750E922064F060F4E22C"
+				"download" "37698FB6512DAFFCF4D7325217D92A5C"
+			}
+			"internalreleasedev"
+			{
+				"gid" "902750505F76FE68E570E4F7E81C4975"
+				"size" "FC5B0768767A6ACA2A5CAE3613022F48"
+				"download" "0014400C8C286137011B7E8A0EC55906"
+			}
+			"lqa_dev"
+			{
+				"gid" "74A0B04FA98948C91DAFF0DDF8ECED1F"
+				"size" "50A6E6C2CD3D0870C72225E051715674"
+				"download" "50A6E6C2CD3D0870C72225E051715674"
+			}
+			"nightly_qa"
+			{
+				"gid" "8EBF3B765DCFCF142CD62B4EFC1DB11E"
+				"size" "C86BAA39B9B7B3A3637CBA9B7B2E64E1"
+				"download" "C86BAA39B9B7B3A3637CBA9B7B2E64E1"
+			}
+			"trailer"
+			{
+				"gid" "743B48E4E31E2C1E7F04409D621E1473"
+				"size" "86B3FA150E4F4F0299321F3BDD293083"
+				"download" "BE6D1A306BF8B210474A29A479804D84"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10128398"
+			"timeupdated" "1670930565"
+		}
+		"closedbeta"
+		{
+			"buildid" "13226152"
+			"pwdrequired" "1"
+			"timeupdated" "1705930806"
+		}
+		"demo"
+		{
+			"buildid" "8314148"
+			"pwdrequired" "1"
+			"timeupdated" "1646395966"
+		}
+		"devv"
+		{
+			"buildid" "8584243"
+			"pwdrequired" "1"
+			"timeupdated" "1650390519"
+		}
+		"internal"
+		{
+			"buildid" "13088156"
+			"pwdrequired" "1"
+			"timeupdated" "1704329879"
+		}
+		"internalmasterrelease"
+		{
+			"buildid" "6508678"
+			"pwdrequired" "1"
+			"timeupdated" "1617885067"
+		}
+		"internalrelease"
+		{
+			"buildid" "13226152"
+			"pwdrequired" "1"
+			"timeupdated" "1705739699"
+		}
+		"internalreleasedev"
+		{
+			"buildid" "13226150"
+			"pwdrequired" "1"
+			"timeupdated" "1705739648"
+		}
+		"lqa_dev"
+		{
+			"buildid" "8096979"
+			"pwdrequired" "1"
+			"timeupdated" "1643365535"
+		}
+		"nightly_qa"
+		{
+			"buildid" "7563651"
+			"pwdrequired" "1"
+			"timeupdated" "1634691716"
+		}
+		"nightly_qa_release"
+		{
+			"buildid" "7563659"
+			"pwdrequired" "1"
+			"timeupdated" "1634691855"
+		}
+		"stable"
+		{
+			"buildid" "9617506"
+			"description" "Previous version"
+			"timeupdated" "1666288710"
+		}
+		"trailer"
+		{
+			"buildid" "9127670"
+			"pwdrequired" "1"
+			"timeupdated" "1657882571"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Maschinen-Mensch/Curious Expedition 2/user"
+			"pattern" "*.*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "21999399"
+"_sha" "5057ffce2a9d225d98dea5f4b3049d5315b74ded"
+"_size" "14292"
