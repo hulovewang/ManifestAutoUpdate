@@ -1,0 +1,400 @@
+"appid" "538030"
+"common"
+{
+	"name" "Xenonauts 2"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "3b1756e7d8828c1b0cc754483a8de99b36a7c138"
+	"clienticon" "6237473d42a005549df18d3bbcde79061360f4b4"
+	"clienttga" "ad34d67f522257a83f4c2751acac9f49c26a1d62"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "944c9287375c6c7f4a4992ff10e0df82fa8621d7"
+	"logo_small" "944c9287375c6c7f4a4992ff10e0df82fa8621d7_thumb"
+	"name_localized"
+	{
+		"schinese" "异种航员2 Xenonauts 2"
+		"tchinese" "異種航員2 Xenonauts 2"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1690934400"
+		"tested_build_id" "11768259"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw,ja,ko"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en,ja,zh-cn,zh-tw,ko"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1703400274"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Goldhawk Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Hooded Horse"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Hooded Horse"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_29" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1689667112"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "538030"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "599"
+		"2" "4364"
+		"3" "3987"
+		"4" "1670"
+		"5" "1741"
+		"6" "1678"
+		"7" "1708"
+		"8" "12472"
+		"9" "4695"
+		"10" "3810"
+		"11" "4168"
+		"12" "4182"
+		"13" "1677"
+		"14" "1669"
+		"15" "7107"
+		"16" "4711"
+		"17" "6310"
+		"18" "4598"
+		"19" "493"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"developer" "Goldhawk Interactive"
+	"publisher" "Hooded Horse"
+	"homepage" "http://www.goldhawkinteractive.com"
+}
+"config"
+{
+	"installdir" "Xenonauts2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Xenonauts2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"538031"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6741611669782464755"
+				"size" "5342597398"
+				"download" "4074938240"
+			}
+			"experimental"
+			{
+				"gid" "3341537311305212531"
+				"size" "5790511649"
+				"download" "4346035264"
+			}
+			"experimental_legacy"
+			{
+				"gid" "8330463713156265220"
+				"size" "5253515867"
+				"download" "4031625536"
+			}
+			"legacy"
+			{
+				"gid" "7097994974273295580"
+				"size" "5199574632"
+				"download" "3983016208"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "792A8FF661653B1BB8BEE3DB78B96C1C"
+				"size" "575AC57F5775F82B4F0B4283B41C25A4"
+				"download" "F1512A861018ABCEC7B84E96A7FE81F8"
+			}
+			"internal-gj"
+			{
+				"gid" "8905FCA0EFC8AD4093075EBCF7EE6FFF"
+				"size" "5159E6F71E7F545B986CABBB763DD1B0"
+				"download" "3D33D5C74F73D7AFAB53F2B7295DC4A8"
+			}
+			"internal-jy"
+			{
+				"gid" "4F0D297CE397094D818A12F2B9A624B6"
+				"size" "E8525E977E13F6246BE76576920A3D33"
+				"download" "94AF2AC77DF87C6953AC73D0679A3FD3"
+			}
+			"internal2"
+			{
+				"gid" "E5FB7C6BF26218329577E6D9AA36ADFF"
+				"size" "B066AD30D576843054781ED75DC839C7"
+				"download" "EF2FAF260DB6B39D1B593B1C5628A12D"
+			}
+			"legacy2"
+			{
+				"gid" "B02BBE611D92D1DFB8F10C79A1243BB3"
+				"size" "B30EBA12D04D80E7D05982CB34FF3D28"
+				"download" "0064B658686979E7A372AD4C8C9089E9"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13097043"
+			"timeupdated" "1704971070"
+		}
+		"experimental"
+		{
+			"buildid" "13330055"
+			"description" "Experimental / unstable builds"
+			"timeupdated" "1706746961"
+		}
+		"experimental_legacy"
+		{
+			"buildid" "12975361"
+			"description" "Previous experimental build"
+			"timeupdated" "1705056986"
+		}
+		"internal"
+		{
+			"buildid" "13330055"
+			"pwdrequired" "1"
+			"timeupdated" "1706745911"
+		}
+		"internal-gj"
+		{
+			"buildid" "13307508"
+			"pwdrequired" "1"
+			"timeupdated" "1706622214"
+		}
+		"internal-jy"
+		{
+			"buildid" "13347842"
+			"pwdrequired" "1"
+			"timeupdated" "1706881693"
+		}
+		"internal2"
+		{
+			"buildid" "13314076"
+			"pwdrequired" "1"
+			"timeupdated" "1706626282"
+		}
+		"legacy"
+		{
+			"buildid" "12143950"
+			"description" "Contains the last Stable build"
+			"timeupdated" "1700267167"
+		}
+		"legacy2"
+		{
+			"buildid" "12143950"
+			"pwdrequired" "1"
+			"timeupdated" "1700267178"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "2000000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/Xenonauts 2/Saves/"
+			"pattern" "*.json"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22171057"
+"_sha" "13e06507c3f12f0e5276c709d1f7d83026553117"
+"_size" "7627"
