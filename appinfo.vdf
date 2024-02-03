@@ -1,0 +1,846 @@
+"appid" "597760"
+"common"
+{
+	"name" "Yuppie Psycho"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "262df36041ce16680f910aa445c5bc04264d5ecf"
+	"clienttga" "8f4dcd3a325ec4556a1dc866258fbff1108b087a"
+	"icon" "5eca8264c9b3ea2f9e58916d051441f0f541a381"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"logo" "0c6c92dff6eb940133a2f062529b9f139dcaa7eb"
+	"logo_small" "0c6c92dff6eb940133a2f062529b9f139dcaa7eb_thumb"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "雅皮士精神"
+		"tchinese" "雅痞心魔"
+		"japanese" "ユッピーサイコ"
+		"koreana" "여피 사이코: 간부 에디션"
+	}
+	"osextended" "macos64,macosapplesilicon"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"has_adult_content" "1"
+	"has_adult_content_violence" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1656633600"
+		"tested_build_id" "9014024"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Yuppie Psycho"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1699989434"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Baroque Decay"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Neon Doctrine"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Neon Doctrine"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_13" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"galician"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1556175600"
+	"steam_release_date" "1556211657"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/yuppie-psycho\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "597760"
+	"store_tags"
+	{
+		"0" "1664"
+		"1" "1721"
+		"2" "3834"
+		"3" "3871"
+		"4" "1667"
+		"5" "3964"
+		"6" "4726"
+		"7" "4791"
+		"8" "1742"
+		"9" "5923"
+		"10" "6426"
+		"11" "6971"
+		"12" "4115"
+		"13" "4085"
+		"14" "7481"
+		"15" "1687"
+		"16" "21"
+		"17" "3978"
+		"18" "4182"
+		"19" "5228"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Baroque Decay"
+	"publisher" "Neon Doctrine"
+}
+"config"
+{
+	"installdir" "YuppiePsycho"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "yuppiepsycho.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "yuppiepsycho.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"5"
+		{
+			"executable" "yuppiepsycho.command"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"1724802396"
+		{
+			"controller_type" "controller_switch_pro"
+			"enabled_branches" "default,beta"
+			"use_action_block" "false"
+		}
+		"1724825259"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,beta"
+			"use_action_block" "false"
+		}
+		"1727750036"
+		{
+			"controller_type" "controller_xbox360"
+			"enabled_branches" "default,beta"
+			"use_action_block" "false"
+		}
+		"2032192654"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "beta"
+			"use_action_block" "false"
+		}
+	}
+	"steamconfigurator3rdpartynative" "8"
+}
+"depots"
+{
+	"229020"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,french,spanish"
+	"597761"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3401985337004140230"
+				"size" "1528087861"
+				"download" "1372132224"
+			}
+			"beta"
+			{
+				"gid" "3997431493901429544"
+				"size" "1577617777"
+				"download" "1390687472"
+			}
+			"legacy"
+			{
+				"gid" "1725413172645028773"
+				"size" "1722805980"
+				"download" "1501558512"
+			}
+			"pre_dlc"
+			{
+				"gid" "5403679347819402972"
+				"size" "868716885"
+				"download" "715923552"
+			}
+			"previous"
+			{
+				"gid" "3401985337004140230"
+				"size" "1528087861"
+				"download" "1372132224"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"staging"
+			{
+				"gid" "543DA93A89CFA79BF4E1799D30203116"
+				"size" "80D32C4D368C88FF77AD56FE358CFFBD"
+				"download" "1A7DD03914C0E566043A82D343D37B53"
+			}
+		}
+	}
+	"597764"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8119940230440597141"
+				"size" "1576886219"
+				"download" "1389848352"
+			}
+			"beta"
+			{
+				"gid" "8697886671325679439"
+				"size" "1583559221"
+				"download" "1391524960"
+			}
+			"legacy"
+			{
+				"gid" "1003323509786167856"
+				"size" "1698673788"
+				"download" "1490975584"
+			}
+			"pre_dlc"
+			{
+				"gid" "7782559096966465423"
+				"size" "842989750"
+				"download" "713283536"
+			}
+			"previous"
+			{
+				"gid" "8119940230440597141"
+				"size" "1576886219"
+				"download" "1389848352"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"staging"
+			{
+				"gid" "923057A13FA8E638BB3D4CC6784C204B"
+				"size" "23561E6461EE6E99D93DA261DE35C62B"
+				"download" "51967D48E2CF51E18076FD30608C4F35"
+			}
+		}
+	}
+	"597762"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "110353088058372472"
+				"size" "1538800694"
+				"download" "1375126128"
+			}
+			"beta"
+			{
+				"gid" "6314941250450601703"
+				"size" "1589551719"
+				"download" "1393750528"
+			}
+			"legacy"
+			{
+				"gid" "1910729223043041536"
+				"size" "1753684356"
+				"download" "1556044832"
+			}
+			"pre_dlc"
+			{
+				"gid" "3494743632977565891"
+				"size" "990149405"
+				"download" "767717680"
+			}
+			"previous"
+			{
+				"gid" "110353088058372472"
+				"size" "1538800694"
+				"download" "1375126128"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"staging"
+			{
+				"gid" "24F6CA83A7DBD8BE2F49DBAAFC3C1F76"
+				"size" "6A233E5E1995F347B666495166858D98"
+				"download" "5C7C9E0A217BD0412BCFDCB2E4FED725"
+			}
+		}
+	}
+	"597765"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "77495474086043725"
+				"size" "1528087861"
+				"download" "1372132256"
+			}
+			"beta"
+			{
+				"gid" "956910682872253480"
+				"size" "1577617777"
+				"download" "1390687504"
+			}
+			"legacy"
+			{
+				"gid" "1063913757655172916"
+				"size" "1722805980"
+				"download" "1501558544"
+			}
+			"pre_dlc"
+			{
+				"gid" "7653933639930648552"
+				"size" "868716885"
+				"download" "715923584"
+			}
+			"previous"
+			{
+				"gid" "77495474086043725"
+				"size" "1528087861"
+				"download" "1372132256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"staging"
+			{
+				"gid" "50848E9CDF1BCE52CDE468B202D3A17E"
+				"size" "80D32C4D368C88FF77AD56FE358CFFBD"
+				"download" "06658CEDB2A160D601600605CE0973F1"
+			}
+		}
+	}
+	"597766"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2660294602888780300"
+				"size" "1576886219"
+				"download" "1389848384"
+			}
+			"beta"
+			{
+				"gid" "5335397374538522443"
+				"size" "1583559221"
+				"download" "1391524992"
+			}
+			"legacy"
+			{
+				"gid" "6207579638108018711"
+				"size" "1698673788"
+				"download" "1490975616"
+			}
+			"pre_dlc"
+			{
+				"gid" "4348878749035896992"
+				"size" "842989750"
+				"download" "713283568"
+			}
+			"previous"
+			{
+				"gid" "2660294602888780300"
+				"size" "1576886219"
+				"download" "1389848384"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"staging"
+			{
+				"gid" "E2F3557FCB50B6B6714FD10E4A1384C3"
+				"size" "23561E6461EE6E99D93DA261DE35C62B"
+				"download" "CC47A9262910482A65623E149B83A9D2"
+			}
+		}
+	}
+	"597763"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3980999718368155528"
+				"size" "1538800694"
+				"download" "1375126240"
+			}
+			"beta"
+			{
+				"gid" "1861721002914069506"
+				"size" "1589551719"
+				"download" "1393750640"
+			}
+			"legacy"
+			{
+				"gid" "7654328876821239205"
+				"size" "1753684356"
+				"download" "1556044864"
+			}
+			"pre_dlc"
+			{
+				"gid" "1329518623376590327"
+				"size" "990149405"
+				"download" "767717712"
+			}
+			"previous"
+			{
+				"gid" "3980999718368155528"
+				"size" "1538800694"
+				"download" "1375126240"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"staging"
+			{
+				"gid" "07ED4BF0ECFE2253F22821509E234BA4"
+				"size" "6A233E5E1995F347B666495166858D98"
+				"download" "842FA61BECC29BCC2DB910CD63E47B35"
+			}
+		}
+	}
+	"597767"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7310522589258287340"
+				"size" "1528087861"
+				"download" "1372132304"
+			}
+			"beta"
+			{
+				"gid" "370649710091999056"
+				"size" "1577617777"
+				"download" "1390687552"
+			}
+			"legacy"
+			{
+				"gid" "3966713122304742635"
+				"size" "1722805980"
+				"download" "1501558576"
+			}
+			"pre_dlc"
+			{
+				"gid" "7871208705351615547"
+				"size" "868716885"
+				"download" "715923632"
+			}
+			"previous"
+			{
+				"gid" "7310522589258287340"
+				"size" "1528087861"
+				"download" "1372132304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"staging"
+			{
+				"gid" "920D8BE45854C68FD60DBA939509569E"
+				"size" "80D32C4D368C88FF77AD56FE358CFFBD"
+				"download" "77ED5552993729D4A13185D1C5DE8103"
+			}
+		}
+	}
+	"597768"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7679455675404401509"
+				"size" "1576886219"
+				"download" "1389848432"
+			}
+			"beta"
+			{
+				"gid" "7688372357661027992"
+				"size" "1583559221"
+				"download" "1391525040"
+			}
+			"legacy"
+			{
+				"gid" "2469779027125291726"
+				"size" "1698673788"
+				"download" "1490975664"
+			}
+			"pre_dlc"
+			{
+				"gid" "227831285514538765"
+				"size" "842989750"
+				"download" "713283632"
+			}
+			"previous"
+			{
+				"gid" "7679455675404401509"
+				"size" "1576886219"
+				"download" "1389848432"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"staging"
+			{
+				"gid" "A6C505607AB497393A8D18CB2E4FE2AD"
+				"size" "23561E6461EE6E99D93DA261DE35C62B"
+				"download" "E812514434A56CA8FA2D8A80ACE6D972"
+			}
+		}
+	}
+	"597769"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6739855828258921762"
+				"size" "1538800694"
+				"download" "1375126288"
+			}
+			"beta"
+			{
+				"gid" "4239829813185446869"
+				"size" "1589551719"
+				"download" "1393750688"
+			}
+			"legacy"
+			{
+				"gid" "2051509189476638344"
+				"size" "1753684356"
+				"download" "1556044912"
+			}
+			"pre_dlc"
+			{
+				"gid" "2553879101673502264"
+				"size" "990149405"
+				"download" "767717776"
+			}
+			"previous"
+			{
+				"gid" "6739855828258921762"
+				"size" "1538800694"
+				"download" "1375126288"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"staging"
+			{
+				"gid" "49C3666375CB4A68225C723562A754E3"
+				"size" "6A233E5E1995F347B666495166858D98"
+				"download" "DCD7D737F3EE892149E0816D800349CA"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11356711"
+			"timeupdated" "1685548851"
+		}
+		"beta"
+		{
+			"buildid" "13168359"
+			"description" "feeling adventurous \?"
+			"timeupdated" "1705227386"
+		}
+		"legacy"
+		{
+			"buildid" "8185684"
+			"description" "Branch that contains the game using the old engine"
+			"timeupdated" "1647018190"
+		}
+		"pre_dlc"
+		{
+			"buildid" "4731626"
+			"description" "Branch that contains the game before the dlc update using the old engine"
+			"timeupdated" "1604047836"
+		}
+		"previous"
+		{
+			"buildid" "11356711"
+			"description" "Previous version of the game"
+			"timeupdated" "1702375686"
+		}
+		"staging"
+		{
+			"buildid" "13168359"
+			"pwdrequired" "1"
+			"timeupdated" "1705226853"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "res/db"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "saves"
+			"pattern" "*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22182689"
+"_sha" "0f01a4625e768c0be6fd2cca14872a3c5b94a3f1"
+"_size" "15226"
