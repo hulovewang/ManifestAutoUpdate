@@ -1,0 +1,323 @@
+"appid" "671970"
+"common"
+{
+	"name" "Junkyard Simulator"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"clienticon" "6ad758bfb5cdab00cb2899f1d093a855644ac950"
+	"clienttga" "93e40ec4f897fba89518137e2ab2368b9c607350"
+	"icon" "d1437d38caeb3b5e9196045ef84abc73b87fca73"
+	"logo" "1d666efb7442ec741594c6582f72ca86d0bfe8d8"
+	"logo_small" "1d666efb7442ec741594c6582f72ca86d0bfe8d8_thumb"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1645660800"
+		"tested_build_id" "7611344"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Junkyard Simulator"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1700821950"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Rebelia Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PlayWay S.A."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "PlayWay S.A."
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Playway Crew"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "The Best of PLW"
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "Polish Games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+		"1" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1634129940"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "671970"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "3810"
+		"2" "1695"
+		"3" "1644"
+		"4" "4175"
+		"5" "1100687"
+		"6" "3968"
+		"7" "4695"
+		"8" "12472"
+		"9" "493"
+		"10" "3839"
+		"11" "3834"
+		"12" "9"
+		"13" "1643"
+		"14" "4182"
+		"15" "1702"
+		"16" "492"
+		"17" "4136"
+		"18" "8945"
+		"19" "11333"
+	}
+	"review_score" "5"
+	"review_percentage" "59"
+}
+"extended"
+{
+	"developer" "Rebelia Games"
+	"publisher" "PlayWay S.A."
+}
+"config"
+{
+	"installdir" "Junkyard Simulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "JunkYard.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english"
+	"671971"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5126454255811547785"
+				"size" "14084927262"
+				"download" "13885034368"
+			}
+			"public_test"
+			{
+				"gid" "5126454255811547785"
+				"size" "14084927262"
+				"download" "13885034368"
+			}
+			"unrealengine4"
+			{
+				"gid" "8604895615708688932"
+				"size" "16150355675"
+				"download" "15594743520"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"progresowanie"
+			{
+				"gid" "23F4373FB022EA80BC872012217E8AC5"
+				"size" "C7D3DD87CCC52B704FFAE6502D2971E5"
+				"download" "99EA1A7371A97394BF65D9DE96537B17"
+			}
+			"rg_test"
+			{
+				"gid" "5A5E4F2C486C89B1DC53308B8C23591F"
+				"size" "7305ED89B89F3F6AE166D15CD6B1B42C"
+				"download" "1B3772EFA7EAB5CBA3A645BCA234005C"
+			}
+			"testfull"
+			{
+				"gid" "73D3DC14592E0CE9D294E90E57204585"
+				"size" "00812930C0B3A51CDC44A3FC16D24D87"
+				"download" "A0586DEA1A25231815F2E71F26E2A6ED"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13208321"
+			"timeupdated" "1705595583"
+		}
+		"progresowanie"
+		{
+			"buildid" "9986602"
+			"pwdrequired" "1"
+			"timeupdated" "1669066904"
+		}
+		"public_test"
+		{
+			"buildid" "13208321"
+			"description" "Public_Test"
+			"timeupdated" "1705596032"
+		}
+		"rg_test"
+		{
+			"buildid" "13208321"
+			"pwdrequired" "1"
+			"timeupdated" "1705585806"
+		}
+		"testfull"
+		{
+			"buildid" "13208321"
+			"pwdrequired" "1"
+			"timeupdated" "1705596041"
+		}
+		"unrealengine4"
+		{
+			"buildid" "8275101"
+			"description" "Premiere version"
+			"timeupdated" "1667858893"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22116104"
+"_sha" "a723e1efdaa72521433b733334d9f5ce7e9916a5"
+"_size" "5557"
