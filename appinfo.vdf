@@ -1,0 +1,531 @@
+"appid" "945360"
+"common"
+{
+	"name" "Among Us"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"clienticon" "409663714339956c1a690a28b96c7a020f99ad28"
+	"clienttga" "18a004f9ae854b5cb93660f82140e8065b2fd3eb"
+	"icon" "b82c3f46da8f3c918e1c9e0d18bd6fa8fcef6801"
+	"logo" "a147961088c49cf44bf0aff61cef08fcec128ecc"
+	"logo_small" "a147961088c49cf44bf0aff61cef08fcec128ecc_thumb"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"dutch" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1643932800"
+		"tested_build_id" "6967040"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"metacritic_name" "Among Us"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "55.36756126021001"
+			"height_pct" "72.03752077891234"
+		}
+	}
+	"store_asset_mtime" "1698177273"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Innersloth"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Innersloth"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Innersloth"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_27" "1"
+		"category_49" "1"
+		"category_47" "1"
+		"category_48" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1542387600"
+	"metacritic_score" "85"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/among-us\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "945360"
+	"store_tags"
+	{
+		"0" "3859"
+		"1" "3843"
+		"2" "745697"
+		"3" "1755"
+		"4" "1662"
+		"5" "3871"
+		"6" "4136"
+		"7" "5186"
+		"8" "1685"
+		"9" "7178"
+		"10" "4195"
+		"11" "7368"
+		"12" "597"
+		"13" "19"
+		"14" "1775"
+		"15" "3942"
+		"16" "1673"
+		"17" "4305"
+		"18" "4791"
+		"19" "8093"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "Innersloth"
+	"publisher" "Innersloth"
+	"homepage" "http://innersloth.com/gameAmongUs.php"
+	"listofdlc" "946430,971924,971925,971995,971996,971998,971999,1579150"
+}
+"config"
+{
+	"installdir" "Among Us"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Among Us.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "AmongUs.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2211254253"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"945361"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6242713924243927822"
+				"size" "656300821"
+				"download" "348673440"
+			}
+			"public-beta"
+			{
+				"gid" "6242713924243927822"
+				"size" "656300821"
+				"download" "348673440"
+			}
+			"public-previous"
+			{
+				"gid" "4593126137370998619"
+				"size" "558719235"
+				"download" "284091968"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdn-test"
+			{
+				"gid" "19BC9F9499F473DF058B0E7E07645CD1"
+				"size" "B028D9B530F578B86E88EBEC83E82F7D"
+				"download" "4CD3E59E59CA89E7E43DF6A0B8745EFA"
+			}
+			"ext-compat-test"
+			{
+				"gid" "DF0D600EF43E3C96071FC0AC79CFD85F"
+				"size" "B6125AA7819251DE4D2473D24566C536"
+				"download" "309F88982C95F5F1398B9117C9B2B411"
+			}
+			"ext-playtest"
+			{
+				"gid" "CC4F574BD3CD5C500FC4700C7282F849"
+				"size" "ECA1BB22B53A836926A452D4F956A573"
+				"download" "122F43E2F00C72C53C71A66B597D34BE"
+			}
+			"external-build"
+			{
+				"gid" "7DE798CD4CF5FB69620B9F7846684261"
+				"size" "8853EF72B14552B88F4C2A443171F98C"
+				"download" "D5C44F38A76E3F4D8F83FE26D167D0D7"
+			}
+			"external-fqa"
+			{
+				"gid" "7035A8BC5760A9F53E3B093AA29CAFE2"
+				"size" "0C4E54D18691BE0CAF4C675649731393"
+				"download" "39FF9DAA226671B75D175268E9DC79CD"
+			}
+			"feature-test"
+			{
+				"gid" "0CF897B77FC8C94DCB1C965058CF88F9"
+				"size" "AB03586A60CEFEEA8CA26D284E4FCC9B"
+				"download" "74B764CB26FEEA8016212DB9EE80B5E3"
+			}
+			"loc-beta"
+			{
+				"gid" "161D8BB4EECA700441C50064B2CDD41E"
+				"size" "050F82BC5E6F53D8DD489594F037A81B"
+				"download" "6EAF7D382E36C405CC5B201144DAEB0D"
+			}
+			"nightly-build"
+			{
+				"gid" "10B6F240384ED51BD7F5BF4210ECC582"
+				"size" "96A588B2D1DE9FBDB23FA3BCDCB0D840"
+				"download" "8CA64680D0B5DD9F5828D8AA6863B49B"
+			}
+			"nightly-build-2"
+			{
+				"gid" "4F9E65A921E76D4F1D4456DE1931F1D8"
+				"size" "68B195D8D2B3406FDA6F5FED4A9A086A"
+				"download" "38F098E3DB7CE34004975C4A8D8EFA73"
+			}
+			"nightly-build-3"
+			{
+				"gid" "F1BB4630EECD25FE2E2F36071597C7D8"
+				"size" "D27E5222FDC1482209919F2414BEC422"
+				"download" "D2F214944F079ED933D051B19ED7D7EF"
+			}
+			"playtest"
+			{
+				"gid" "E1C4B61CEE642527E9F0727543C3BE9A"
+				"size" "E6AD1AFFCED95AACE6FA1DCCCC95D46F"
+				"download" "F5EB9172195DA791DF476BC09207B0C8"
+			}
+			"private-beta"
+			{
+				"gid" "2E2D31D4BE9779E642B64EB88C0CA7D2"
+				"size" "DB38D9DB54C6E144C9AF4F75AE1BDB5C"
+				"download" "77564190037A175562226C10AA38EB8D"
+			}
+			"random-stuff"
+			{
+				"gid" "BD8B54520C81F174FF8254946EB98866"
+				"size" "302E7C64737B55C96FCBE6048118D7CD"
+				"download" "71DCD67F3E2B2B30CC9DDDCC15596B8B"
+			}
+			"staging"
+			{
+				"gid" "57C3D64D84AD79C67DE6C10CE3081B89"
+				"size" "8648352117A1BAD904DDDA890C8FCA3E"
+				"download" "D5ACD095481CA6681D262AD85FA3D0AF"
+			}
+			"the-cafeteria"
+			{
+				"gid" "9193FD63C3BB96896B8AB57BFBEC2722"
+				"size" "3214D13ABE733AE8C1CE87DE8D5025A7"
+				"download" "892D16C8A544723F8F06EB1C0B50F744"
+			}
+		}
+	}
+	"945362"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12547701"
+			"timeupdated" "1701194617"
+		}
+		"cdn-test"
+		{
+			"buildid" "13244948"
+			"pwdrequired" "1"
+			"timeupdated" "1706317665"
+		}
+		"ext-compat-test"
+		{
+			"buildid" "9997573"
+			"pwdrequired" "1"
+			"timeupdated" "1669213646"
+		}
+		"ext-playtest"
+		{
+			"buildid" "10776921"
+			"pwdrequired" "1"
+			"timeupdated" "1678898767"
+		}
+		"external-build"
+		{
+			"buildid" "12410968"
+			"pwdrequired" "1"
+			"timeupdated" "1697664785"
+		}
+		"external-fqa"
+		{
+			"buildid" "10579623"
+			"pwdrequired" "1"
+			"timeupdated" "1676667743"
+		}
+		"feature-test"
+		{
+			"buildid" "13224661"
+			"pwdrequired" "1"
+			"timeupdated" "1705715274"
+		}
+		"loc-beta"
+		{
+			"buildid" "11097106"
+			"pwdrequired" "1"
+			"timeupdated" "1682528941"
+		}
+		"nightly-build"
+		{
+			"buildid" "13344838"
+			"pwdrequired" "1"
+			"timeupdated" "1706863463"
+		}
+		"nightly-build-2"
+		{
+			"buildid" "13303162"
+			"pwdrequired" "1"
+			"timeupdated" "1706542331"
+		}
+		"nightly-build-3"
+		{
+			"buildid" "11427741"
+			"pwdrequired" "1"
+			"timeupdated" "1686263309"
+		}
+		"playtest"
+		{
+			"buildid" "13277294"
+			"pwdrequired" "1"
+			"timeupdated" "1706233781"
+		}
+		"private-beta"
+		{
+			"buildid" "8728135"
+			"pwdrequired" "1"
+			"timeupdated" "1652377792"
+		}
+		"public-beta"
+		{
+			"buildid" "12547701"
+			"timeupdated" "1701194643"
+		}
+		"public-previous"
+		{
+			"buildid" "11689336"
+			"description" "Previous live production version"
+			"timeupdated" "1701288103"
+		}
+		"random-stuff"
+		{
+			"buildid" "13261637"
+			"pwdrequired" "1"
+			"timeupdated" "1706113352"
+		}
+		"staging"
+		{
+			"buildid" "12547701"
+			"pwdrequired" "1"
+			"timeupdated" "1698362129"
+		}
+		"the-cafeteria"
+		{
+			"buildid" "9776761"
+			"pwdrequired" "1"
+			"timeupdated" "1666633150"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22166663"
+"_sha" "082c1a94481df0f62c0bb8abb086c40fb61f9a37"
+"_size" "10398"
