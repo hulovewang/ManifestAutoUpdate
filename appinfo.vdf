@@ -1,0 +1,202 @@
+"appid" "222860"
+"common"
+{
+	"name" "Left 4 Dead 2 Dedicated Server"
+	"type" "Tool"
+	"parent" "550"
+	"metacritic_name" "Left 4 Dead 2 Dedicated Server"
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "51.738122827346466"
+			"height_pct" "48.11053377420879"
+		}
+	}
+	"store_asset_mtime" "1574123554"
+	"associations"
+	{
+	}
+	"primary_genre" "0"
+	"category"
+	{
+	}
+	"gameid" "222860"
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" ""
+	"gamedir" "ValveTestApp222860"
+	"homepage" ""
+	"icon" ""
+	"noservers" "0"
+	"sourcegame" "1"
+	"state" "eStateAvailable"
+	"thirdpartycdkey" "1"
+	"visibleonlywhensubscribed" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Left 4 Dead 2 Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "srcds.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"222861"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8013373444328532924"
+				"size" "9541723828"
+				"download" "4642146768"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "60030DF0BBAF04361EB76D907E812441"
+				"size" "D71F274BAC85DAD2620E6CB6A9ECB5E1"
+				"download" "A666E65AEC846DD49C1E8789A7503946"
+			}
+			"private_beta"
+			{
+				"gid" "311D6E73313E2B5DD48C411F55906792"
+				"size" "4CB891D7CB0AE69F3B4DA4E35FCF6723"
+				"download" "69BC00C5F3BD3ED299D26DE6DC324479"
+			}
+			"private_beta_old"
+			{
+				"gid" "997317A5D63E4A451D9D2D704A18BC14"
+				"size" "1734DCFB6BA5579200669ED61878539C"
+				"download" "445937DA4F63729D2382AB783C9A3D50"
+			}
+		}
+	}
+	"222862"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "317010287905355887"
+				"size" "161479273"
+				"download" "57318304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "AA911CEF196D2393744A8BD4C5AC1DF6"
+				"size" "2E4B7A0E387016548092E9D561DFDF02"
+				"download" "6385F57C89C59FACED87F833F93B7B86"
+			}
+			"private_beta"
+			{
+				"gid" "8ABCF6D3A1FFE603D0CD647A913A7E74"
+				"size" "64E33F25EDBDD4BE31FD8400DA4A5AFE"
+				"download" "239AA156E3A6E5E94F9C7A81FEF6B4EF"
+			}
+			"private_beta_old"
+			{
+				"gid" "DDD924860F8B2EE4DCAEF2A08FC295C8"
+				"size" "67FB1DCD28EF347D8517B07BCF0870DD"
+				"download" "7871CCDE754A10B7C088AFCBAD0F9F9D"
+			}
+		}
+	}
+	"222863"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6184637731084042776"
+				"size" "240921695"
+				"download" "70332640"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "726A5B809DF4C1B5E79543BC1FB5FEAA"
+				"size" "E218DC45BB372AF36A933D8CF66C577C"
+				"download" "87F87F83EC701D352A71719D6970A3EB"
+			}
+			"private_beta"
+			{
+				"gid" "738A862D60BC17F8E04BA60EFC9612A6"
+				"size" "A616DDC17ABDBC81260836B7F3E2B7F4"
+				"download" "CF10BD0C3D3AB2979A7353966C900E81"
+			}
+			"private_beta_old"
+			{
+				"gid" "97DEDEE6E0B1BA91F565DC37B7B996CD"
+				"size" "6F7CA62D29E6BFB5EDB7855440B8BECB"
+				"download" "EA5061F70B57B7FCF1B1AECBE13217E0"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"preloadonly" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13332765"
+			"timeupdated" "1706808085"
+		}
+		"beta"
+		{
+			"buildid" "13332765"
+			"pwdrequired" "1"
+			"timeupdated" "1706807789"
+		}
+		"private_beta"
+		{
+			"buildid" "7103573"
+			"pwdrequired" "1"
+			"timeupdated" "1629474318"
+		}
+		"private_beta_old"
+		{
+			"buildid" "6260430"
+			"pwdrequired" "1"
+			"timeupdated" "1623878637"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22156191"
+"_sha" "609d9c96a6b420803e3b1dbc47d61b58fc22d619"
+"_size" "3789"
