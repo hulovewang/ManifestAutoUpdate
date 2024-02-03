@@ -1,0 +1,679 @@
+"appid" "2399830"
+"common"
+{
+	"name" "ARK: Survival Ascended"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"russian" "1"
+		"polish" "1"
+		"finnish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+		"latam" "1"
+	}
+	"clienticon" "3c1546488725d43835e3a05645d3072e99e0c621"
+	"clienttga" "cd48da01ba019629a67ee8ddca05ae3bb7ff6835"
+	"icon" "655cc2012105979c2b8e4821d568351c86b22be7"
+	"name_localized"
+	{
+		"tchinese" "方舟: 生存飛升"
+		"schinese" "方舟: 生存飞升"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1699315200"
+		"tested_build_id" "12538639"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedAntiCheatConfiguration"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "50"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1698251949"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Studio Wildcard"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Grove Street Games"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "Instinct Games"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "Studio Wildcard"
+		}
+		"4"
+		{
+			"type" "publisher"
+			"name" "Snail Games USA"
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "Snail Games USA"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "29"
+		"4" "3"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_20" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_22" "1"
+		"category_36" "1"
+		"category_47" "1"
+		"category_38" "1"
+		"category_48" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_27" "1"
+		"category_17" "1"
+		"category_44" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1698296841"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2399830"
+	"store_tags"
+	{
+		"0" "1662"
+		"1" "1695"
+		"2" "5160"
+		"3" "21"
+		"4" "3859"
+		"5" "19"
+		"6" "1643"
+		"7" "1702"
+		"8" "7332"
+		"9" "3810"
+		"10" "4747"
+		"11" "6730"
+		"12" "1775"
+		"13" "128"
+		"14" "4182"
+		"15" "6276"
+		"16" "122"
+		"17" "3942"
+		"18" "1684"
+		"19" "1669"
+	}
+	"review_score" "5"
+	"review_percentage" "59"
+}
+"extended"
+{
+	"anti_cheat_support_url" ""
+	"additional_dependencies"
+	{
+		"0"
+		{
+			"src_os" "windows"
+			"dest_os" "linux"
+			"appid" "1161040"
+			"comment" "project D"
+		}
+	}
+	"developer" "Studio Wildcard"
+	"publisher" "Studio Wildcard"
+	"homepage" "http://www.playark.com"
+}
+"config"
+{
+	"installdir" "ARK Survival Ascended"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ShooterGame\\Binaries\\Win64\\ArkAscended_BE.exe"
+			"arguments" "-VideoReplayEnabled=false"
+			"workingdir" "ShooterGame\\Binaries\\Win64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch ARK"
+			}
+			"description" "Launch ARK"
+		}
+		"1"
+		{
+			"executable" "ShooterGame\\Binaries\\Win64\\ArkAscended.exe"
+			"arguments" "-VideoReplayEnabled=false"
+			"workingdir" "ShooterGame\\Binaries\\Win64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Play ARK: No BattlEye AntiCheat, Unofficial Servers Only"
+			}
+			"description" "Play ARK: No BattlEye AntiCheat, Unofficial Servers Only"
+		}
+		"2"
+		{
+			"executable" "ShooterGame\\Binaries\\Win64\\ShooterGame-Win64-Shipping.exe"
+			"arguments" "-VideoReplayEnabled=false"
+			"workingdir" "ShooterGame\\Binaries\\Win64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "yeoldebuild"
+			}
+			"description_loc"
+			{
+				"english" "OLD launch exe (ignore)"
+			}
+			"description" "OLD launch exe (ignore)"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2399831"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6999410529822508194"
+				"size" "86887351626"
+				"download" "82720179712"
+			}
+			"public_test_realm"
+			{
+				"gid" "6999410529822508194"
+				"size" "86887351626"
+				"download" "82720179712"
+			}
+			"public_test_singleplayer_saving"
+			{
+				"gid" "525813441297900829"
+				"size" "87040054788"
+				"download" "82868520352"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"arktx"
+			{
+				"gid" "FBC1A9F86D536D36F82707724B0A1B16"
+				"size" "EDE45F0EF76B28A25358F97BDCB63C52"
+				"download" "E443BA8113DBB49128CEDD9F57E964E4"
+			}
+			"cachechecks"
+			{
+				"gid" "9795999AEBF2671047F323AB6FF9904B"
+				"size" "B2CD7BADFBE99B9BE2C113289B2E10BB"
+				"download" "14897117273559B4C174053B4DA21DCA"
+			}
+			"continuous"
+			{
+				"gid" "BB8E3AAFD0F7A8D86A2D606DEEE3A5FC"
+				"size" "953FDB1671CFEAB3FEB164D0DECEF37A"
+				"download" "BEBAC9B0A138EAFC77A9E0C9FB4852C2"
+			}
+			"crossplay"
+			{
+				"gid" "D86030086F449F9FCC61C68B3086A43C"
+				"size" "469690420B39D046E54C1F610CB0DBC0"
+				"download" "D4C86B7094E17A652C74C334DEEE1A0E"
+			}
+			"epicark"
+			{
+				"gid" "3FC7C90175D588E911D0DFE14B88868B"
+				"size" "073EB42B34410BF98BF30F9C8C409CD1"
+				"download" "348202A427A1D070430EA77C4C237A2F"
+			}
+			"farmhouse"
+			{
+				"gid" "F44D6EE1513F91E7301627615BD08BBA"
+				"size" "4F0CCDBE8492799F4C30E12858EA6811"
+				"download" "2C1E37388B2BE84F37C95D6840478693"
+			}
+			"goodvis"
+			{
+				"gid" "2F5BA6E3B6EC27332ADD3A32E3BCC121"
+				"size" "608B0DCED8B8F79721B940A59A329329"
+				"download" "E62E34FB0CF70C28DBB650AEF82E5C58"
+			}
+			"hamoverdon"
+			{
+				"gid" "1D863F20B655AA15A3BD2A6C8EBD39F6"
+				"size" "C9E147F54417CCF3542B18CC54FAEDDD"
+				"download" "B8FE460244C439640C448CEFCC7A323E"
+			}
+			"intelark"
+			{
+				"gid" "739ADB33177A78E88B88416258CC30D5"
+				"size" "F0B110C9A85629139439C5D8C9562192"
+				"download" "7B737713012ED84100D3F2B1B0C22D10"
+			}
+			"lastknowngood"
+			{
+				"gid" "67559BCBE97B60668BC3F594CE168174"
+				"size" "A128F7851DFDCED7437A1288417E17F8"
+				"download" "B5AA14C960E56598C36CD5F0D42E5D5C"
+			}
+			"nightraider"
+			{
+				"gid" "FBEDBF041F7696C6537293DCB64948C5"
+				"size" "51DB6CD17DC7C528DDCFD4B4B87734FB"
+				"download" "67F8EE3F45D69550EA101F0F7566CC9E"
+			}
+			"nitradopc"
+			{
+				"gid" "7066A042D8BF384C1B81E6A377502619"
+				"size" "12AE5EAEF3232CFE28B06F2346C1CE51"
+				"download" "1A768341BD1011F7E6E7734E11CB70C2"
+			}
+			"notingscene"
+			{
+				"gid" "56A0FD337ACB4BCEA87D807B6511ADF2"
+				"size" "5D5A76DCF46133BD4996BBAB2FBBF8AD"
+				"download" "F1508893B7B4B7EF5D3CC67E9B55E8F1"
+			}
+			"oldplaytest"
+			{
+				"gid" "25E255CA9580C2929B230D4B662C9829"
+				"size" "4CB3A53AFC0F4EBC066FAD2E1619F3E2"
+				"download" "CEBED9824AC0AEC10E0759820F4D2D66"
+			}
+			"playtest1"
+			{
+				"gid" "0DC8020B6E3A540BE98E441D4AAC4BA8"
+				"size" "51581199E4E3F438B796D913F6EF2692"
+				"download" "9621483AB81C0EE131CBC1071C07D403"
+			}
+			"qa_staging"
+			{
+				"gid" "C926E178B769BA7043FDD346F6EE88F1"
+				"size" "85B35D3AD066A4200188A6B6265AF7EB"
+				"download" "EDAB23C30DCF91EEA44092D2631DD52E"
+			}
+			"rating_test"
+			{
+				"gid" "06E75F9A03FA2E6C4F93FDA57ACA0B74"
+				"size" "17EEC459A7C6256860FED6BAF6DA2567"
+				"download" "BF579BD94D896723BBC68C45CB75E52A"
+			}
+			"refeldest"
+			{
+				"gid" "0FDD77EA76BAE333261C83BB4BED7BD5"
+				"size" "C987F99600CD38DBC8AF1D44BAAF6EE5"
+				"download" "03C887B4F0352FC9BF5FD2C43896DB73"
+			}
+			"spam"
+			{
+				"gid" "7086A5468647073D5241BFD3C6B7AC97"
+				"size" "7EFE8EBB8376F74A69736C5F82432BE5"
+				"download" "DC000AE69F197C1A5BFEA2927363B819"
+			}
+			"testmaps"
+			{
+				"gid" "D5C1AC72406621047B7B22A94087EF77"
+				"size" "1BB1CE295256D598553362251DA9EDC8"
+				"download" "93B88EF9F76949F79EFEEEF411FB168A"
+			}
+			"vector"
+			{
+				"gid" "4A8D7BC5AB951713C0D040AF9BF03C3A"
+				"size" "6A3EE7FBB438DEC04455DE95CCBF835F"
+				"download" "53B662186B1A4CE8F0E7DFC89C4688C1"
+			}
+			"yeoldebuild"
+			{
+				"gid" "5F02B1BC31B1EF043026F4F6F2CEA604"
+				"size" "52FF5516F6BD839BCE1ECD8445C4EC4A"
+				"download" "DCE2510D8E8DFF9E2EA332F987DDC21E"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,danish,dutch,turkish,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13351179"
+			"timeupdated" "1706909506"
+		}
+		"arktx"
+		{
+			"buildid" "12667100"
+			"pwdrequired" "1"
+			"timeupdated" "1699586098"
+		}
+		"cachechecks"
+		{
+			"buildid" "12498641"
+			"pwdrequired" "1"
+			"timeupdated" "1697857832"
+		}
+		"continuous"
+		{
+			"buildid" "13235270"
+			"pwdrequired" "1"
+			"timeupdated" "1705902153"
+		}
+		"crossplay"
+		{
+			"buildid" "13159489"
+			"pwdrequired" "1"
+			"timeupdated" "1705082521"
+		}
+		"epicark"
+		{
+			"buildid" "12853112"
+			"pwdrequired" "1"
+			"timeupdated" "1701455136"
+		}
+		"farmhouse"
+		{
+			"buildid" "13151627"
+			"pwdrequired" "1"
+			"timeupdated" "1706048311"
+		}
+		"goodvis"
+		{
+			"buildid" "11726932"
+			"pwdrequired" "1"
+			"timeupdated" "1689699902"
+		}
+		"hamoverdon"
+		{
+			"buildid" "12647299"
+			"pwdrequired" "1"
+			"timeupdated" "1699495124"
+		}
+		"intelark"
+		{
+			"buildid" "12964932"
+			"pwdrequired" "1"
+			"timeupdated" "1702826688"
+		}
+		"lastknowngood"
+		{
+			"buildid" "13320482"
+			"pwdrequired" "1"
+			"timeupdated" "1706686823"
+		}
+		"nightraider"
+		{
+			"buildid" "12756425"
+			"pwdrequired" "1"
+			"timeupdated" "1700560100"
+		}
+		"nitradopc"
+		{
+			"buildid" "12756425"
+			"pwdrequired" "1"
+			"timeupdated" "1700553312"
+		}
+		"notingscene"
+		{
+			"buildid" "12752842"
+			"pwdrequired" "1"
+			"timeupdated" "1700506014"
+		}
+		"oldplaytest"
+		{
+			"buildid" "12469725"
+			"pwdrequired" "1"
+			"timeupdated" "1697617398"
+		}
+		"playtest1"
+		{
+			"buildid" "13355514"
+			"pwdrequired" "1"
+			"timeupdated" "1706949726"
+		}
+		"public_test_realm"
+		{
+			"buildid" "13351179"
+			"description" "Try out the new stuff"
+			"timeupdated" "1706909577"
+		}
+		"public_test_singleplayer_saving"
+		{
+			"buildid" "13244521"
+			"description" "test saves"
+			"timeupdated" "1705990989"
+		}
+		"qa_staging"
+		{
+			"buildid" "13351179"
+			"pwdrequired" "1"
+			"timeupdated" "1706902387"
+		}
+		"rating_test"
+		{
+			"buildid" "12293807"
+			"pwdrequired" "1"
+			"timeupdated" "1696019738"
+		}
+		"refeldest"
+		{
+			"buildid" "13220598"
+			"pwdrequired" "1"
+			"timeupdated" "1705934462"
+		}
+		"spam"
+		{
+			"buildid" "13341958"
+			"pwdrequired" "1"
+			"timeupdated" "1706837531"
+		}
+		"testmaps"
+		{
+			"buildid" "12693433"
+			"pwdrequired" "1"
+			"timeupdated" "1700012382"
+		}
+		"vector"
+		{
+			"buildid" "12574748"
+			"pwdrequired" "1"
+			"timeupdated" "1698764888"
+		}
+		"yeoldebuild"
+		{
+			"buildid" "12376187"
+			"pwdrequired" "1"
+			"timeupdated" "1701193003"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "2000000000"
+	"maxnumfiles" "2000"
+}
+"_missing_token" "False"
+"_change_number" "22183143"
+"_sha" "dd38542540c3b5e596633c94c33baaf78626c893"
+"_size" "13612"
