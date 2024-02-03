@@ -1,0 +1,584 @@
+"appid" "1548850"
+"common"
+{
+	"name" "Six Days in Fallujah"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "96282c02afeb7eeeab3dc4289f562265c0fbf91a"
+	"logo_small" "96282c02afeb7eeeab3dc4289f562265c0fbf91a_thumb"
+	"icon" "10896561621de499b220167574c3acda30adf621"
+	"clienttga" "c7faca9222d6dffb1ebe3454ec0f83674485b83d"
+	"clienticon" "94594a254230f3b1ed5de64ce41fff4099ef69c1"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1548850_eula_0"
+			"name" "Six Days in Fallujah EULA"
+			"url" "https://store.steampowered.com//eula/1548850_eula_0"
+			"version" "2"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"has_adult_content" "1"
+	"has_adult_content_violence" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1691798400"
+		"tested_build_id" "11845898"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "66.47529062485884"
+			"height_pct" "68.00717471021537"
+		}
+	}
+	"store_asset_mtime" "1703012501"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Highwire Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Victura"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Six Days"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "70"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_2" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1687441860"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1548850"
+	"store_tags"
+	{
+		"0" "4168"
+		"1" "1708"
+		"2" "1663"
+		"3" "1774"
+		"4" "3839"
+		"5" "6730"
+		"6" "1685"
+		"7" "4175"
+		"8" "4684"
+		"9" "3987"
+		"10" "620519"
+		"11" "5711"
+		"12" "19"
+		"13" "6869"
+		"14" "1678"
+		"15" "1687"
+		"16" "5984"
+		"17" "5608"
+		"18" "5673"
+		"19" "11333"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Highwire Games"
+	"publisher" "Victura"
+	"homepage" "https://sixdays.com"
+}
+"config"
+{
+	"installdir" "Six Days in Fallujah"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SixDays.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "3"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "9"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1548851"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1257914976001210081"
+				"size" "21380565945"
+				"download" "12911378784"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"adhoc-a"
+			{
+				"gid" "711EC63C2E92ABC6BEFA18C88B3191A9"
+				"size" "7D7F9522E075A37B6678424BB8C8BABF"
+				"download" "80FE5C387B5AD1483378843FF6281879"
+			}
+			"adhoc-d"
+			{
+				"gid" "3779FEA01657A84ADF55C3D1CE96D5DA"
+				"size" "371FB571BDFAC3BBEA6D7AB4FA2B9581"
+				"download" "2E90D60C9056F1A12842504CFFC09BE0"
+			}
+			"adhoc-g"
+			{
+				"gid" "0E41346C73A38E900FFEC46303C63483"
+				"size" "7FACB6B90C602846ECF59FE9ED12FE63"
+				"download" "FFFC6760715E4C4DFE0254E8ECE6E1E5"
+			}
+			"adhoc-j"
+			{
+				"gid" "E517F973AAB22480526BF7B3C77609AD"
+				"size" "867999EDEE6B01078957B5F1E7EB5970"
+				"download" "F444EAFBFFC2E191983FB88E58F5AC17"
+			}
+			"adhoc-k"
+			{
+				"gid" "6CEDCFDC4365469FEBB66EE6136CEC93"
+				"size" "450841F82AB3776337A89210C2708E35"
+				"download" "B64E58C8AD86F2AC7DA97F158BAE058F"
+			}
+			"adhoc-l"
+			{
+				"gid" "7ADD8B1707A7375B5B4D13C4AEF8A6E4"
+				"size" "3B2827ECEE4CFBCC66B54BCC8E41ED65"
+				"download" "6E1256C91D82E881808A235E1FD6A1D7"
+			}
+			"adhoc-p"
+			{
+				"gid" "768F82DE7E4A0F6B7DE232F7601680A2"
+				"size" "6B0E006A23509E2788C2C82CA9E0666B"
+				"download" "9E300F3F562C551186767393B0D9549A"
+			}
+			"adhoc-q"
+			{
+				"gid" "47FEBFFA8F525A2ACCE8F26EDE74EF2B"
+				"size" "6506DCA322E4C8D35D00D834289745FA"
+				"download" "BFD60CD02A9EC21DBF0008C36CA70E16"
+			}
+			"adhoc-s"
+			{
+				"gid" "E31A2DF093A1550A03B4B7CF4B11F465"
+				"size" "0941D1F4D09B0F207DA06172BD89F4D0"
+				"download" "E450C289CC79221238548548747973A8"
+			}
+			"adhoc-t"
+			{
+				"gid" "D55597C80BCCF5F7A7D04D296EBEBBCE"
+				"size" "CD5774B006A2D03138BD5E1380D2D6A8"
+				"download" "8423AEB41320E2C911684470E42F28BC"
+			}
+			"adhoc-x"
+			{
+				"gid" "96F7434AA8CEFFF8F66FFAC29973794E"
+				"size" "CC357DAA3F45D45F485F4384390884D2"
+				"download" "A12433B1FFF22677772C8EF6B4C192D4"
+			}
+			"adhoc-z"
+			{
+				"gid" "5FE04795C37E5CC3CC8BFC6D35B5C5BC"
+				"size" "0E30D06F8E43C8E78333D383CCCD3DB0"
+				"download" "BE15481CA5F5CB1DB9AA2EA6219EEC85"
+			}
+			"creator"
+			{
+				"gid" "8AB9135F1F0A4617860B83F27084FF4C"
+				"size" "173327EDFB4090E2CCAFCC312D851FD1"
+				"download" "9C69A33E24900BA3DF5F41684AA744E5"
+			}
+			"keywords"
+			{
+				"gid" "29AAEEF58BE2A15903DB2CE14EA81A11"
+				"size" "D52030D50BD4F4024BB779655BD37066"
+				"download" "32EAECB367C927B3239C5C05B1463047"
+			}
+			"live-shipping-auto"
+			{
+				"gid" "3A12F559F44CA83C4B1EDC57F7ACA993"
+				"size" "84021B4D84F8F213FF9CF32EDD9FA0AE"
+				"download" "1A2D17985C288CC0AA1BA5DC8B499503"
+			}
+			"live-test-auto"
+			{
+				"gid" "CDF994F471E342E3CD85898A360BD02B"
+				"size" "E4E7023F69B1237270F9567162E3AD12"
+				"download" "5A8EEBCD43E783BC1CDFA4BEBB1B1C01"
+			}
+			"loc-test"
+			{
+				"gid" "28E73E8613C91D565619CB96FA587423"
+				"size" "62858C01DB9B284B1E90F5716188FEEC"
+				"download" "8791F539937CF44480DE4EF8CE60F9D8"
+			}
+			"main-dev-auto"
+			{
+				"gid" "ADCB9D5D8624A6496A106AB8FB09B2CF"
+				"size" "4DCCE03B9F52A54C85EFD8FDED6D0F49"
+				"download" "19241167BE6927C24DDD1F102534799A"
+			}
+			"main-shipping-auto"
+			{
+				"gid" "09FBD7611D510741E27E4134C41D1BFB"
+				"size" "D5C47367579678D569FD7EA589F24DE4"
+				"download" "C8BE7A4C3AD6419A96A6DFF9EEE495B8"
+			}
+			"main-test-auto"
+			{
+				"gid" "E15CD91828DB311217183E0C1F63E94B"
+				"size" "A9315B54809923D2F28D2F7C182534F1"
+				"download" "4381524D184C179A4013E10C4842B47D"
+			}
+			"release-dev-auto"
+			{
+				"gid" "798723A7FAD949C2F40794E65192A7DB"
+				"size" "7674ED1BCA4DFEE342F6BEA656A91144"
+				"download" "6CA245F98AECE552CD6AF0329A101EC3"
+			}
+			"release-shipping-auto"
+			{
+				"gid" "70103008B51CB52E1410D7D7EAB80BA6"
+				"size" "501E8AA602B71E824C97B7B0CC3CF305"
+				"download" "039E42CACC0A734F8AF735E13F9877DB"
+			}
+			"release-test-auto"
+			{
+				"gid" "0ED4653C66BBF0013B6F00B6A0DFEDDB"
+				"size" "0E71536064297121F3A7EBF856674E56"
+				"download" "03984549C654DFC7845870AC970711F0"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13263658"
+			"timeupdated" "1706543010"
+		}
+		"adhoc-a"
+		{
+			"buildid" "13338562"
+			"pwdrequired" "1"
+			"timeupdated" "1706810439"
+		}
+		"adhoc-d"
+		{
+			"buildid" "13253792"
+			"pwdrequired" "1"
+			"timeupdated" "1706051420"
+		}
+		"adhoc-g"
+		{
+			"buildid" "13241565"
+			"pwdrequired" "1"
+			"timeupdated" "1705954796"
+		}
+		"adhoc-j"
+		{
+			"buildid" "13222317"
+			"pwdrequired" "1"
+			"timeupdated" "1705693596"
+		}
+		"adhoc-k"
+		{
+			"buildid" "13350736"
+			"pwdrequired" "1"
+			"timeupdated" "1706898866"
+		}
+		"adhoc-l"
+		{
+			"buildid" "13242163"
+			"pwdrequired" "1"
+			"timeupdated" "1705960018"
+		}
+		"adhoc-p"
+		{
+			"buildid" "13211217"
+			"pwdrequired" "1"
+			"timeupdated" "1705606165"
+		}
+		"adhoc-q"
+		{
+			"buildid" "13338783"
+			"pwdrequired" "1"
+			"timeupdated" "1706811941"
+		}
+		"adhoc-s"
+		{
+			"buildid" "13152609"
+			"pwdrequired" "1"
+			"timeupdated" "1705026292"
+		}
+		"adhoc-t"
+		{
+			"buildid" "13351753"
+			"pwdrequired" "1"
+			"timeupdated" "1706906689"
+		}
+		"adhoc-x"
+		{
+			"buildid" "13140833"
+			"pwdrequired" "1"
+			"timeupdated" "1704925530"
+		}
+		"adhoc-z"
+		{
+			"buildid" "13006171"
+			"pwdrequired" "1"
+			"timeupdated" "1703037734"
+		}
+		"creator"
+		{
+			"buildid" "12978409"
+			"pwdrequired" "1"
+			"timeupdated" "1702949158"
+		}
+		"keywords"
+		{
+			"buildid" "12968306"
+			"pwdrequired" "1"
+			"timeupdated" "1702613597"
+		}
+		"live-shipping-auto"
+		{
+			"buildid" "13263658"
+			"pwdrequired" "1"
+			"timeupdated" "1706127677"
+		}
+		"live-test-auto"
+		{
+			"buildid" "13263469"
+			"pwdrequired" "1"
+			"timeupdated" "1706126227"
+		}
+		"loc-test"
+		{
+			"buildid" "12947117"
+			"pwdrequired" "1"
+			"timeupdated" "1702440748"
+		}
+		"main-dev-auto"
+		{
+			"buildid" "13351252"
+			"pwdrequired" "1"
+			"timeupdated" "1706902937"
+		}
+		"main-shipping-auto"
+		{
+			"buildid" "13346550"
+			"pwdrequired" "1"
+			"timeupdated" "1706874126"
+		}
+		"main-test-auto"
+		{
+			"buildid" "13346181"
+			"pwdrequired" "1"
+			"timeupdated" "1706871766"
+		}
+		"release-dev-auto"
+		{
+			"buildid" "13345008"
+			"pwdrequired" "1"
+			"timeupdated" "1706864629"
+		}
+		"release-shipping-auto"
+		{
+			"buildid" "13345299"
+			"pwdrequired" "1"
+			"timeupdated" "1706866526"
+		}
+		"release-test-auto"
+		{
+			"buildid" "13351361"
+			"pwdrequired" "1"
+			"timeupdated" "1706903819"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "2"
+}
+"_missing_token" "False"
+"_change_number" "22177416"
+"_sha" "e6f57e026e285f4ed51d62a877c0f2a30171bcf9"
+"_size" "11913"
