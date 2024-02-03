@@ -1,0 +1,519 @@
+"appid" "763890"
+"common"
+{
+	"name" "Wildermyth"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"logo" "e86c5bcdf71d9e86d8be62e7339545f1529e8793"
+	"logo_small" "e86c5bcdf71d9e86d8be62e7339545f1529e8793_thumb"
+	"icon" "d1d7287619c05af415234776315019124fbb032e"
+	"clienttga" "aad3caccf8f883497fc4db0c71dab6621a1123c2"
+	"clienticon" "8075e58d6872d87035ab63da8f60dc76dc145828"
+	"releasestate" "released"
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"schinese" "漫野奇谭"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"schinese" "1"
+		"russian" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"clienticns" "ac9f9466cfc00b82495fd60cf3ce6efb406f1eb6"
+	"linuxclienticon" "3ecaf54d6a9fcac1df6cbe35cd40ad5298e68334"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1666828800"
+		"tested_build_id" "9435634"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Wildermyth"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "82.1477846958753"
+			"height_pct" "49.57845314764208"
+		}
+	}
+	"store_asset_mtime" "1695745614"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Worldwalker Games LLC"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Worldwalker Games LLC"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "WhisperGames"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_30" "1"
+		"category_17" "1"
+		"category_44" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_48" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1623776655"
+	"metacritic_score" "86"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/wildermyth\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "763890"
+	"store_tags"
+	{
+		"0" "10695"
+		"1" "6426"
+		"2" "1742"
+		"3" "14139"
+		"4" "4747"
+		"5" "5125"
+		"6" "21725"
+		"7" "1684"
+		"8" "3959"
+		"9" "6815"
+		"10" "1741"
+		"11" "122"
+		"12" "5608"
+		"13" "1677"
+		"14" "1751"
+		"15" "1669"
+		"16" "492"
+		"17" "9"
+		"18" "4182"
+		"19" "4975"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"absolutemousecoordinates" "1"
+	"remoteplaytogethertestingbranches" "internal"
+	"developer" "Worldwalker Games LLC"
+	"publisher" "Worldwalker Games LLC"
+	"homepage" "http://wildermyth.com"
+	"listofdlc" "2139130"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Wildermyth"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "wildermyth.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "wildermyth.app\\Contents\\MacOS\\wildermyth"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "wildermyth"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"763891"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2144494474784660250"
+				"size" "2235244041"
+				"download" "1893040976"
+			}
+			"unstable"
+			{
+				"gid" "2144494474784660250"
+				"size" "2235244041"
+				"download" "1893040976"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"closed_beta"
+			{
+				"gid" "03C2B126D43EAC8084A9951F5000FBC1"
+				"size" "CFD8E41EE40FDE9A55B60A75A0BF0982"
+				"download" "5845B77848507BE53E04DF5787F28957"
+			}
+			"internal"
+			{
+				"gid" "8A3C248F90BF26D61B2AD384BF542B6C"
+				"size" "1FE8BB2845DABBF7992E8335BB0601A6"
+				"download" "C728EFD29467ED19C9A78A8271E96690"
+			}
+			"loc_qa"
+			{
+				"gid" "0984DB00A282886FACFC00972FDEC1DA"
+				"size" "0A1DD14FB347CBAF257A264D511B32DB"
+				"download" "B63C12CDAE86022D94CE6ABB5025927B"
+			}
+			"loc_qa_2"
+			{
+				"gid" "D3E750A805035D1ED14E364D072E73FE"
+				"size" "9A5DF995D092843D083043E6EAEA0DA5"
+				"download" "2CBB1C04EFC8A2C7D397FF648E02B1F0"
+			}
+			"translate"
+			{
+				"gid" "39446FFB49B9BBCA5C218010DC48951B"
+				"size" "83A713C93147C42B0E35705D3C34FCA1"
+				"download" "CD33F74793A8AC815178EAE2D94F3DF4"
+			}
+			"whisper"
+			{
+				"gid" "7D0CB7B01A981EF38F50009BEFB9D174"
+				"size" "624F6D65C772CC79E4EA7FFEB2A012A6"
+				"download" "96F8D4C06D3D12BC83C3D0033617375C"
+			}
+		}
+	}
+	"763892"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3991885107841955143"
+				"size" "2320197185"
+				"download" "1913121056"
+			}
+			"unstable"
+			{
+				"gid" "3991885107841955143"
+				"size" "2320197185"
+				"download" "1913121056"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"closed_beta"
+			{
+				"gid" "12810BA0643D749C5FC5DD6D2DB63CB6"
+				"size" "76C7F0885ABD397417C73A979D2A12A2"
+				"download" "291B253A4CA69C5935B8B0A4277C2874"
+			}
+			"internal"
+			{
+				"gid" "6B17FFF3A96FA6D1895E0F2912AFA8CA"
+				"size" "CDFB1576390ED7950D1C682E26F21663"
+				"download" "92A0C6DD1AA136A9CAC68CEBD7F57E98"
+			}
+			"loc_qa"
+			{
+				"gid" "5C22841960A39DC874E6A059B9FD6C9F"
+				"size" "71BB4537E7102237B0E17EE3E966636E"
+				"download" "531A8EB133AD31FA04F22D1BBBCBE64F"
+			}
+			"loc_qa_2"
+			{
+				"gid" "EFA4CC5D1F7C395739225F9F8D806E47"
+				"size" "857FC6D17C3B780CC5DB1A3BD44F7AAF"
+				"download" "4CB580A49550DD69680F571C07CD5859"
+			}
+			"translate"
+			{
+				"gid" "6D00CCDCE76D91D46DA77BD52817755C"
+				"size" "8DBF6D869601054E19117C7C6E22F85A"
+				"download" "8990A3DA5F973009269D624D9F317FE2"
+			}
+			"whisper"
+			{
+				"gid" "273752E30FE318A357C990E19E699E7F"
+				"size" "C0D8D5E46A8F8E4E8C5FDAA65EA6190E"
+				"download" "1FD96E77FBF388966417C45BE63EDEEB"
+			}
+		}
+	}
+	"763893"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7453610187712782405"
+				"size" "2342891861"
+				"download" "1918804320"
+			}
+			"unstable"
+			{
+				"gid" "7453610187712782405"
+				"size" "2342891861"
+				"download" "1918804320"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"closed_beta"
+			{
+				"gid" "C11602F9AB5399BA1438BC7AAF703CF8"
+				"size" "B89BB14AA167F784EAA60A2BFD02B0D3"
+				"download" "7189296FEC66888226B99244B2F03860"
+			}
+			"internal"
+			{
+				"gid" "1B8D3B07A0E95C7D0846249ADB81D7E7"
+				"size" "661BBD1CE44A9FFB8E1690A452343368"
+				"download" "CECA040DFD9362BC2835D08A17357407"
+			}
+			"loc_qa"
+			{
+				"gid" "958B46F6379E3E465E67FCEE61C607B8"
+				"size" "5BD9F810AC23B00600BFE3FC3CE4A8D3"
+				"download" "B619E52635D1645B6ED1C0F46E5D9491"
+			}
+			"loc_qa_2"
+			{
+				"gid" "90B8EC2EF1C828FC371C289F161AF3B8"
+				"size" "EF181E45231266878E58429C44BD1188"
+				"download" "C28EA6983E88375F2B3A138BB035F8AF"
+			}
+			"translate"
+			{
+				"gid" "67FF1043D1273150596C2DDD67A682E2"
+				"size" "A0FC9A9CF1010DBD0FF86A4205CDB025"
+				"download" "380547DF641AAA4B9D9CD6664BC7DB4C"
+			}
+			"whisper"
+			{
+				"gid" "1C7D985B190AC2A043AB34027ABC19B8"
+				"size" "8C6F27FD7845EBAF23AA78C90FE8888E"
+				"download" "9E053FC2A0790B031F63CDC69365EA9A"
+			}
+		}
+	}
+	"workshopdepot" "763890"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12944424"
+			"timeupdated" "1702417251"
+		}
+		"closed_beta"
+		{
+			"buildid" "13351165"
+			"pwdrequired" "1"
+			"timeupdated" "1706907723"
+		}
+		"internal"
+		{
+			"buildid" "13351165"
+			"pwdrequired" "1"
+			"timeupdated" "1706902498"
+		}
+		"loc_qa"
+		{
+			"buildid" "12082548"
+			"pwdrequired" "1"
+			"timeupdated" "1693514725"
+		}
+		"loc_qa_2"
+		{
+			"buildid" "11192611"
+			"pwdrequired" "1"
+			"timeupdated" "1683665034"
+		}
+		"translate"
+		{
+			"buildid" "13276360"
+			"pwdrequired" "1"
+			"timeupdated" "1706281597"
+		}
+		"unstable"
+		{
+			"buildid" "12944424"
+			"description" "Preview the upcoming patch, help us test it"
+			"timeupdated" "1702417206"
+		}
+		"whisper"
+		{
+			"buildid" "13276360"
+			"pwdrequired" "1"
+			"timeupdated" "1706281613"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "players"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"addpath" "wildermyth.app\\Contents\\Resources"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22177693"
+"_sha" "faf30bb608841717736abf2b73290cefb765508f"
+"_size" "10401"
