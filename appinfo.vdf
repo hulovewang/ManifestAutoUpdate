@@ -1,0 +1,327 @@
+"appid" "1751350"
+"common"
+{
+	"name" "Don\'t Die In The West"
+	"type" "Game"
+	"icon" "3f331a8f8b6065f3181a61854bc1a535eebe42bc"
+	"clienttga" "4aaa8aca08836a2a02a2a44d0a6c498ebc4bf071"
+	"clienticns" "99d5db06977efd860bdfda61af4acafd2e3764af"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienticon" "fb035d2001e985768ba8b6f054af08ea6b364d48"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1751350_eula_0"
+			"name" "Don\'t Die In The West EULA"
+			"url" "https://store.steampowered.com//eula/1751350_eula_0"
+			"version" "1"
+		}
+	}
+	"name_localized"
+	{
+		"schinese" "牛仔不能死"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"has_adult_content" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1700524800"
+		"tested_build_id" "12700011"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"german" "capsule_231x87_german.jpg"
+		"french" "capsule_231x87_french.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"french" "header_french.jpg"
+		"german" "header_german.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+		"spanish" "header_spanish.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,de,es,fr,en"
+		"library_hero" "en,de,fr"
+		"library_logo" "en,zh-cn"
+		"library_header" "fr,en,de,zh-cn,es"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "25.01975841394419"
+			"height_pct" "59.413461098981315"
+		}
+	}
+	"store_asset_mtime" "1706705494"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Funday Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Funday Games"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1699540417"
+	"community_hub_visible" "1"
+	"gameid" "1751350"
+	"store_tags"
+	{
+		"0" "1702"
+		"1" "10235"
+		"2" "1647"
+		"3" "3834"
+		"4" "3810"
+		"5" "1695"
+		"6" "1643"
+		"7" "3843"
+		"8" "7332"
+		"9" "122"
+		"10" "1720"
+		"11" "5981"
+		"12" "6041"
+		"13" "1100689"
+		"14" "4726"
+		"15" "1742"
+		"16" "3859"
+		"17" "493"
+		"18" "21"
+		"19" "19"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"developer" "Funday Games"
+	"publisher" "Funday Games"
+	"homepage" "https://www.dontdieinthewest.gg"
+}
+"config"
+{
+	"installdir" "DontDieInTheWest"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Dont Die In The West.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1751351"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3774679960817679324"
+				"size" "1538367410"
+				"download" "528867632"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "5DF3CFA83411D56A2F91E58AF67CDC72"
+				"size" "2E498E4DC9426EC3B4BEF654DFF7ED57"
+				"download" "D15840A8AEEDF02603C42EF6EF29F27F"
+			}
+			"development"
+			{
+				"gid" "50BBD48B16FDF4CB5B747B701CE9E732"
+				"size" "059E01BCD48683D9B48C772FA987351B"
+				"download" "52460B7E2AB9F2F7D9330538B003EDF2"
+			}
+			"pipeline-development"
+			{
+				"gid" "3DC3E82126F9708B6B10CAABCCEAD8A0"
+				"size" "9057C5F1200295C26586D4AE45403247"
+				"download" "31EF56D1DFC35A0A3BC0FD8946DCFEEE"
+			}
+			"stabilization"
+			{
+				"gid" "A209B735B45EB519A6EA48197700E6CE"
+				"size" "2CD3924E5AEEA135731568E1D8F6601D"
+				"download" "69CB5984C7DF9D6D9D7CFC3832375AB9"
+			}
+			"trailer"
+			{
+				"gid" "C79C9B3BA9CF93F3695503973A80FDF6"
+				"size" "4A07CDAF546EF1F17199AF02EB3C85C4"
+				"download" "0E0CDC75B68789345422E0D6899A0CF4"
+			}
+		}
+	}
+	"1751352"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+	}
+	"1751353"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13146750"
+			"timeupdated" "1704980221"
+		}
+		"beta"
+		{
+			"buildid" "12909538"
+			"pwdrequired" "1"
+			"timeupdated" "1702028959"
+		}
+		"development"
+		{
+			"buildid" "13010947"
+			"pwdrequired" "1"
+			"timeupdated" "1703081671"
+		}
+		"pipeline-development"
+		{
+			"buildid" "12807062"
+			"pwdrequired" "1"
+			"timeupdated" "1701088165"
+		}
+		"stabilization"
+		{
+			"buildid" "13346244"
+			"pwdrequired" "1"
+			"timeupdated" "1706872085"
+		}
+		"trailer"
+		{
+			"buildid" "11297520"
+			"pwdrequired" "1"
+			"timeupdated" "1684849709"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "64"
+}
+"_missing_token" "False"
+"_change_number" "22168672"
+"_sha" "9530090eb7d421a879463f255f602c32bf3acc04"
+"_size" "6162"
