@@ -1,0 +1,1497 @@
+"appid" "1151340"
+"common"
+{
+	"name" "Fallout 76"
+	"type" "Game"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"clienticon" "86af4fb54a9d10d3f16903ca9b3b1c255c466f0e"
+	"clienttga" "e1e04ad6d96f4f952e05252cf691675b453ad7ec"
+	"icon" "81185120c1c1a4b26442828b25bbb58aec8d734c"
+	"logo" "d7e736ae2e5c83bbd0b34b9893fc7562d0ec6003"
+	"logo_small" "d7e736ae2e5c83bbd0b34b9893fc7562d0ec6003_thumb"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"has_adult_content" "1"
+	"has_adult_content_violence" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1674000000"
+		"tested_build_id" "10066824"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "55.12808336273105"
+			"height_pct" "72.03752077891238"
+		}
+	}
+	"store_asset_mtime" "1701790000"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Bethesda Game Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bethesda Softworks"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Fallout"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_20" "1"
+		"category_18" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_42" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1586862000"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1151340"
+	"store_tags"
+	{
+		"0" "19995"
+		"1" "1695"
+		"2" "122"
+		"3" "3835"
+		"4" "3859"
+		"5" "4845"
+		"6" "1662"
+		"7" "7332"
+		"8" "1685"
+		"9" "1774"
+		"10" "1667"
+		"11" "1754"
+		"12" "3834"
+		"13" "4345"
+		"14" "1663"
+		"15" "4667"
+		"16" "4166"
+		"17" "4182"
+		"18" "493"
+		"19" "1756"
+	}
+	"review_score" "6"
+	"review_percentage" "72"
+}
+"extended"
+{
+	"onquitdemomsg" "https://steamstore-a.akamaihd.net/message/1694179794025928414/"
+	"developer" "Bethesda Game Studios"
+	"publisher" "Bethesda Softworks"
+	"homepage" "https://fallout.bethesda.net/en/"
+	"listofdlc" "1158670,1202520,1224340,1224341,1224350,1343770,1460140,1905070,1905071,1905072,1905073,2096110,2655310"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Fallout76"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Fallout76.exe"
+			"type" "default"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2208414931"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam"
+	"1151341"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6238271714454933795"
+				"size" "106813884"
+				"download" "53663504"
+			}
+			"local"
+			{
+				"gid" "4647036848423179743"
+				"size" "87836672"
+				"download" "22011728"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"babylonstable"
+			{
+				"gid" "C5AC16EE5618D402BB7B25228E5F8A4B"
+				"size" "A496274EAC841D38CC8593C3C10436E1"
+				"download" "600F7288A9330AE27EB051789D2AA7E2"
+			}
+			"devmain"
+			{
+				"gid" "489B3549244E6987EF258B080F6825B4"
+				"size" "A7A491D82D47C3FBA5DEB2E8219B5E4F"
+				"download" "54807E1F14717A8E3B1C8FEEAC5A529C"
+			}
+			"main"
+			{
+				"gid" "2D4532E2FE2296EBE59095AD4DE64569"
+				"size" "403985E516B63FE848F2020008181A4C"
+				"download" "2280A7A3DA8312C8732502A600046042"
+			}
+			"playtest1"
+			{
+				"gid" "39D9C4438007AFEAC98212C6A039327E"
+				"size" "11AC67E1B3B168E26D333CBE4185B3BF"
+				"download" "D49106464DC53D4BECEB0D0E04980E0B"
+			}
+			"qavalidation"
+			{
+				"gid" "AF7E2171D855AE207D5921A2C8C6451D"
+				"size" "FE4231B24B01C087B931C100DCDA80A0"
+				"download" "D3FC437D01F39BFD86DAFD3342E050BF"
+			}
+			"rcpc"
+			{
+				"gid" "A1DDCCC4CFDB98D7E54A3C1149B41463"
+				"size" "BF67749FDA3AFA781234EE632541251E"
+				"download" "1EC6FA09D58D2536CF82E26BA07448C7"
+			}
+			"relpc"
+			{
+				"gid" "E1012D0E3E2D58939DB6CE003C5BC247"
+				"size" "A9BCA01C648178373DF30D6A88348C08"
+				"download" "90504CB6829917143AC77328E89DE6DA"
+			}
+		}
+	}
+	"1151342"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2421355977137968787"
+				"size" "96200942463"
+				"download" "81498122704"
+			}
+			"local"
+			{
+				"gid" "8342734771322416842"
+				"size" "56867313882"
+				"download" "53832662176"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"babylonstable"
+			{
+				"gid" "F877CDE2D83E32FC1F9D0CE92BD36E11"
+				"size" "93C7ECBD7D5B0F19069AE0E019B3241C"
+				"download" "B480F2F82213711A3F36BF32D880821A"
+			}
+			"devmain"
+			{
+				"gid" "62E1DEE682AE2274ADE11F51FBF4B543"
+				"size" "618CB882411E81EDA847E18537CCE0BC"
+				"download" "1E00839F7AEBD19CFB7B6414984FB384"
+			}
+			"main"
+			{
+				"gid" "F469F19AC6B171A02107E225BEE07E73"
+				"size" "8CF1A02079EEF7E957139D5F9B14A8AD"
+				"download" "A967E7711DBFA670F33E6E519A80018D"
+			}
+			"playtest1"
+			{
+				"gid" "D89788301925145499B4BFCB1FD8C598"
+				"size" "88F7BAD7951267E0197ED605E4170F6F"
+				"download" "C7B5386424A297E10122E26A56EF3FF4"
+			}
+			"qavalidation"
+			{
+				"gid" "A14F89C6642109B94B3B4852A3AB58ED"
+				"size" "1664C12115DCCD387D56F49C89115E43"
+				"download" "E173048BB384E1D43EAED040B4AA59FD"
+			}
+			"rcpc"
+			{
+				"gid" "FD1D71F36B9D01D5E2CB52DACFD215BB"
+				"size" "AE72D7E6B2AE97586308BBD12936799A"
+				"download" "50FBCC6D34B3A3711A64CE708DE01516"
+			}
+			"relpc"
+			{
+				"gid" "EC6BA068B150FC25617107CF5A3F249A"
+				"size" "F06254D3A88C2F7896E67155A00ABDC2"
+				"download" "D0C658DC9408CF2B0BD9C23A1B0A747B"
+			}
+		}
+	}
+	"1151343"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6039894368196858662"
+				"size" "3327044992"
+				"download" "2817477216"
+			}
+			"local"
+			{
+				"gid" "5234734955339374268"
+				"size" "2999352845"
+				"download" "2537109216"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"babylonstable"
+			{
+				"gid" "FD5B84443A9536AFC5BF1DAF92957FC5"
+				"size" "AC4D35845335C7AA38CC3272D64B6993"
+				"download" "7C7A8FDFBA22CFA3E1AE10474881BF51"
+			}
+			"devmain"
+			{
+				"gid" "4045377388A4CF7EB1A024B80FC37935"
+				"size" "C8C1A55F4320AF8828BEF53394E24C43"
+				"download" "D718230495F0C9E97691BA5ECDF45BFD"
+			}
+			"main"
+			{
+				"gid" "FA5BA43ACAA0CC9FB09843F4814D09C9"
+				"size" "34AE00DF55012DF756C63C4F11AB055E"
+				"download" "73E3CF5D8EFBB066FF5A106F13FD9383"
+			}
+			"playtest1"
+			{
+				"gid" "B070A958459E11F22247D1DEF43D9213"
+				"size" "7FD5EE8C1B876A64DACCA4210C3FF78D"
+				"download" "CE66EAB2811441353C8A0759FB5AC848"
+			}
+			"qavalidation"
+			{
+				"gid" "378444F9B5094FF22696CA26946A9EFE"
+				"size" "BC17CD9CD1CD0A273B648E082D4B7110"
+				"download" "C7C9563095D9B381D513FDE5F7FF65A6"
+			}
+			"rcpc"
+			{
+				"gid" "D6593155A100C8BD37F7065AC3542214"
+				"size" "2517B27FDB6C7177611C26B650BC1672"
+				"download" "087B8739EC411C3008710CCC40AC8731"
+			}
+			"relpc"
+			{
+				"gid" "5E82F09684F0EBF583CC165D4283694E"
+				"size" "0763474F4D75C7F028A0DFC56D0A2877"
+				"download" "AE28CFED1C74E862DEC604E483FE51D5"
+			}
+		}
+	}
+	"1151344"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "808440207332726"
+				"size" "13533071"
+				"download" "2800432"
+			}
+			"local"
+			{
+				"gid" "7165789806267752779"
+				"size" "13533071"
+				"download" "2800432"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"babylonstable"
+			{
+				"gid" "3C89FF34D03A54A26BCB96A4AB73132D"
+				"size" "316B6A961F1B55A12CD00B644190CB45"
+				"download" "B5E49077917685EE7B990E448A854DFF"
+			}
+			"devmain"
+			{
+				"gid" "F03447683E19D08722D46A4F8E4B9115"
+				"size" "477ED29CDF7AB8AB396E51B465EDA437"
+				"download" "70C37F908E5BEB4ED7770E35FCE82B05"
+			}
+			"main"
+			{
+				"gid" "A95900872D6F4231A228845A97F99B49"
+				"size" "D6D2E4749A767085C3B89FCA4747B803"
+				"download" "FB5E03D9F7BECC97C9275F3E769DDFCB"
+			}
+			"playtest1"
+			{
+				"gid" "38E8ED7710691A79B81ADE1F4B968B33"
+				"size" "68441CE00F82821E1969D10A7C224797"
+				"download" "A24AD1CE17C6372E52F2E089722EBEE4"
+			}
+			"qavalidation"
+			{
+				"gid" "BEFE7AE1BDC652E5418D84395CFCD660"
+				"size" "3B41F09C73D4E4E5AAB4FEC3B36C1B32"
+				"download" "37F3162177F90FE756A39FE3B2117C0E"
+			}
+			"rcpc"
+			{
+				"gid" "5894D711C82C6F08F35D2E1DDFD3FA75"
+				"size" "3DC216E9A58AAC95B1B40A4735B8D27F"
+				"download" "711E4F9E98E14843582A1816376B47B2"
+			}
+			"relpc"
+			{
+				"gid" "0D133E95703C1F62263BB6E3A1DFA597"
+				"size" "5F6F661F35E5F976CBDFE48EB59C5411"
+				"download" "9AEC89A8E8C23DEE6EFF5800196A2193"
+			}
+		}
+	}
+	"1151345"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4768199497892868577"
+				"size" "4469"
+				"download" "1312"
+			}
+			"local"
+			{
+				"gid" "3926043021509597303"
+				"size" "3208"
+				"download" "1392"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"babylonstable"
+			{
+				"gid" "A54C82B2CCBD94215553C3860BC339FE"
+				"size" "6218AE030CB9C3E1B582ADBCF76BB002"
+				"download" "7EE359ED5E29E6D0C45014B9C16A7D77"
+			}
+			"devmain"
+			{
+				"gid" "38109319C256BA2EC59C315C27B6C725"
+				"size" "30D30EB6A6050ACBB5C4C57323A5CB16"
+				"download" "547B983A40307C5DA65E7B5B30EFA3B6"
+			}
+			"main"
+			{
+				"gid" "B8089BDDA4B0FBE69E817BD3E1C6778C"
+				"size" "73801C2F1624D368ECB231CCB5E818D2"
+				"download" "442576474184F364386467893C40851B"
+			}
+			"playtest1"
+			{
+				"gid" "5A090116DD71BA8E3C30D35FE0462481"
+				"size" "0368222ED838F8D60704897F30C935BF"
+				"download" "8B3062D4ACC81F7B467DC3D8EE3FD25E"
+			}
+			"qavalidation"
+			{
+				"gid" "D2B12F3BDAFF3F4CFFE7D10FA86B95B9"
+				"size" "895F59A97F8AE2C379018537E620FEAB"
+				"download" "D7338A0AED95632B3EE5B71C9D806F5B"
+			}
+			"rcpc"
+			{
+				"gid" "4148DECA83E57ED222E1AFB1678F4BE1"
+				"size" "11250D56EA480C8C9BBB056E56A326FD"
+				"download" "E1351A57DABA229CF2847148E234ABB6"
+			}
+			"relpc"
+			{
+				"gid" "A4785A91908632CF963D43EC503F909D"
+				"size" "535DE5E3F2BFCD0B925EECDBD713236D"
+				"download" "396931E8E4952329277F3D1014BBB2A8"
+			}
+		}
+	}
+	"1151346"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1205674306318218700"
+				"size" "233127461"
+				"download" "231561312"
+			}
+			"local"
+			{
+				"gid" "6401739813430068498"
+				"size" "233126188"
+				"download" "231561392"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"babylonstable"
+			{
+				"gid" "4BAB535EDFCFAAC561DD339F63758E20"
+				"size" "A13F5866AC2F9EE28615B261E946E9F6"
+				"download" "D09A444FAFC2301906DFBFCEF9DE4597"
+			}
+			"devmain"
+			{
+				"gid" "E87E04E3226238E8AA53D418F2226628"
+				"size" "C9B4CAD0E10DA90DF1338380ACDD31DC"
+				"download" "98EE82E6EF70AE9323B3FD6DF1144EF0"
+			}
+			"main"
+			{
+				"gid" "ABC1F57B937B88CE59071AFB9050AB8C"
+				"size" "8A5A985299253C3E88599E15A2FF2F18"
+				"download" "D23DC8D26D1CF7553801FFC728A4CCF5"
+			}
+			"playtest1"
+			{
+				"gid" "4FC53D2B032FFE0DA6D42EA1E7561042"
+				"size" "5B690EEE2F5D9E26D127E11AA62E2639"
+				"download" "4A32BAA248FB0095A88EA55BB8DFA520"
+			}
+			"qavalidation"
+			{
+				"gid" "ABB012E34D946D73B27868E00BAC9512"
+				"size" "01CDDF4945C8839DF451B5902BC414FE"
+				"download" "424C6FEC3F8C0D11177C46E31922FC1B"
+			}
+			"rcpc"
+			{
+				"gid" "D900480CE9748413980F8A6CEAB21F7A"
+				"size" "623FC2DCAA04868EA017FD80F62F702C"
+				"download" "327563250553C013A1BB64B2EA0BF214"
+			}
+			"relpc"
+			{
+				"gid" "51CA03DD073762BC6EACF85C827F3E2A"
+				"size" "43775014DD18534D0947DF2418C05731"
+				"download" "6F72FD92E794B35F9F54FF20F7637FEB"
+			}
+		}
+	}
+	"1151347"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "48382587283287278"
+				"size" "233117565"
+				"download" "231554960"
+			}
+			"local"
+			{
+				"gid" "992120775884439176"
+				"size" "233116292"
+				"download" "231555040"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"babylonstable"
+			{
+				"gid" "F25230BFE7318E3A93055E240F42C2FE"
+				"size" "641D65AD53FF033F9AEF795F00B379CE"
+				"download" "A87C216FD0E6242E7266EA2E0EFDD3DF"
+			}
+			"devmain"
+			{
+				"gid" "E3AEF5304D2B512503CADE2D255F8AD4"
+				"size" "8341C5478DC054F6DD011035775814BC"
+				"download" "C2C1C9B5932CA6F05F285B87EED5C794"
+			}
+			"main"
+			{
+				"gid" "FEB228F9B0B46B752BB8091C5117E3AC"
+				"size" "E9511927050A048726EA3DD6C099A399"
+				"download" "B11A9BCF8A023E6FD7113F7789C147A2"
+			}
+			"playtest1"
+			{
+				"gid" "B288A04F2A19D191CADDC432341B2124"
+				"size" "3722430C68405693C813E51540DF6AB7"
+				"download" "01FE90FFB34A60C6866D832822D71B47"
+			}
+			"qavalidation"
+			{
+				"gid" "39D5D7BD5CBACD1481BA1C1B18CC558D"
+				"size" "41071926CD7ECF6D1F6E8D839F4A472B"
+				"download" "4A057BB3E91FB1431CBBDA91D93BF151"
+			}
+			"rcpc"
+			{
+				"gid" "828D7F938FBCD746B9F424A748B1FF56"
+				"size" "1E2DC1F302CADB2C74F9A9A03D94BF2D"
+				"download" "469DA8567941FCE71CEA500E779FEE02"
+			}
+			"relpc"
+			{
+				"gid" "DB4D5F6C0F4022F304FEDF5DE229010F"
+				"size" "21D91C81A9A727B241BF65A94576C2A6"
+				"download" "0415C53F0D8DFE1BA8F3664FB926EAB7"
+			}
+		}
+	}
+	"1151348"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3775826813487433667"
+				"size" "3081469012"
+				"download" "2112564448"
+			}
+			"local"
+			{
+				"gid" "7243738156767865498"
+				"size" "1548024426"
+				"download" "1188020272"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"babylonstable"
+			{
+				"gid" "18E45EC12DF3E80EC82AFA26F392E634"
+				"size" "67423E46AF4EFC2DF7736248813F4998"
+				"download" "7B247C0F019164C867F97BAAD43544B7"
+			}
+			"devmain"
+			{
+				"gid" "7C13FF67348C662295658F491AD2125D"
+				"size" "83745D0515F86C16369D5BE689D7ADDD"
+				"download" "08E54291CB40D238BB669D4A58BAEA77"
+			}
+			"main"
+			{
+				"gid" "48EF3E10A16626414FE5686CF98D21DC"
+				"size" "2C2C1558D8C8ED30D2FED0D315FC92D8"
+				"download" "94CD2F937C4378FF8146FCFFA272EB8A"
+			}
+			"playtest1"
+			{
+				"gid" "DA5AF65627D49B99E90E666502658985"
+				"size" "84ED6A0CA70D161D7C038D3BDAA9FFE4"
+				"download" "F03F7186C52C401255FD0006091436FD"
+			}
+			"qavalidation"
+			{
+				"gid" "278686CFCE4F2DAC3987B65C329A3497"
+				"size" "D53E0F04AE3645AB983AC897C7F1DE61"
+				"download" "0CBD8717905C320F0ED3390B932C7A2C"
+			}
+			"rcpc"
+			{
+				"gid" "4CC5591EC396C793ABF87409DEB28EED"
+				"size" "254CFBD773D2DF3D7694E6AFB1C54650"
+				"download" "FA4AC1E012872B27912B7D164858E4DA"
+			}
+			"relpc"
+			{
+				"gid" "1212B1020D24712C24C34866F6A56F55"
+				"size" "3E16DF2901E1FA6F131BA8DE368E707E"
+				"download" "F9DD3B7474EAFE60890AD6C9417B47FD"
+			}
+		}
+	}
+	"1151349"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8280503558979599657"
+				"size" "3301649699"
+				"download" "2257232560"
+			}
+			"local"
+			{
+				"gid" "4311488046912051828"
+				"size" "1661708453"
+				"download" "1279298768"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"babylonstable"
+			{
+				"gid" "158CB41CADEB9DE5D8DDB0E8347F7278"
+				"size" "67AB10FF72BA879421C1779C8F50A762"
+				"download" "60D92463297656726B76B9F03A72BE24"
+			}
+			"devmain"
+			{
+				"gid" "83328DA29AFF9E4D24FF8FC33542D536"
+				"size" "ABDB3F611FC6900BC5E6395F663BC7FA"
+				"download" "90D446ECDBC92AC53AC434BBEBF501B0"
+			}
+			"main"
+			{
+				"gid" "DF54556BEDD1BEBC8C6F841BDBC8C831"
+				"size" "5CB99C4D238C3C682D31F7A938701307"
+				"download" "C29B1ABB336B411138156E6D524F37EF"
+			}
+			"playtest1"
+			{
+				"gid" "0A1791BA92902BDC55E34DC0B87F874B"
+				"size" "8851D5D32CFD0C5F27B0D1C9EF2D564D"
+				"download" "27C3C61656E03F66DAED211177B372F3"
+			}
+			"qavalidation"
+			{
+				"gid" "00C9738F9F92335EFCB283516950AEB1"
+				"size" "6CDBD380D3F2B0FA912EE594332E6B23"
+				"download" "C0E11B49AAC9325FA5D451EFC471D6DD"
+			}
+			"rcpc"
+			{
+				"gid" "23264DE02B133EE1C6356ABED2FCE048"
+				"size" "DA03735233C2FAD434C8D9801CF9E2A0"
+				"download" "FBF10A4F392D928E3DA53097A5818539"
+			}
+			"relpc"
+			{
+				"gid" "5C2E5FE939127B00735F04B18CFBF7CD"
+				"size" "44760E6F89FCF2CBC70CA0A5204B2890"
+				"download" "33E47FD036112497B16D6FB494A71FEB"
+			}
+		}
+	}
+	"1158671"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7628491732811850948"
+				"size" "3209138779"
+				"download" "2197737536"
+			}
+			"local"
+			{
+				"gid" "4602310599651653419"
+				"size" "1603086915"
+				"download" "1239958768"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"babylonstable"
+			{
+				"gid" "DF60F313D5532182E8A1AB4CB7E81BFB"
+				"size" "A05ECAD9EE1760DB8A4F30439927456D"
+				"download" "9742135D9B45AC347440C459116D9281"
+			}
+			"devmain"
+			{
+				"gid" "5C7C192759EE4359BB79A7841EDEB3CC"
+				"size" "2CA8BA7FB4808A300084E7AE3FE13A07"
+				"download" "C6AFF07A2B4784397C3C2037D07419A7"
+			}
+			"main"
+			{
+				"gid" "77EFFD2D33929BD680BAB364D650EB8C"
+				"size" "4B17C98B7A301A228BFF59A73C00431C"
+				"download" "1C8BC5F6E40F2288FF7EF54951D31147"
+			}
+			"playtest1"
+			{
+				"gid" "6DECC53F2076B353610C2F518D417A79"
+				"size" "860B2C14BC68048FAC98070AB38580EC"
+				"download" "99D5CD7C1BCFC71F42E9FF1B42FBB6E8"
+			}
+			"qavalidation"
+			{
+				"gid" "50AFCD4BE609B7AAA0DBA027EB538CBA"
+				"size" "E5D828806CEE602EAB6A90211C963BDD"
+				"download" "9C6BA874070BBF815E759F1B9AC892D5"
+			}
+			"rcpc"
+			{
+				"gid" "C14903AF1BD568E9B9368352D08B45B4"
+				"size" "30BB3A512C160118EC08607A82C5FEFA"
+				"download" "4394252660CF5B49162521E74224D359"
+			}
+			"relpc"
+			{
+				"gid" "D6DA6EA1BCC7D926911072B1A7F7F79D"
+				"size" "D1A9D1DD3541D34A5269A60F79E479C7"
+				"download" "724C2B7B9EC81040250604E449E54B69"
+			}
+		}
+	}
+	"1158672"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "444570073979593677"
+				"size" "3212516387"
+				"download" "2215350000"
+			}
+			"local"
+			{
+				"gid" "6422745876291429263"
+				"size" "1333806660"
+				"download" "1131478720"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"babylonstable"
+			{
+				"gid" "F5CE3FA59FB5BA39D9D8105B5EAC0A80"
+				"size" "B9E425064993A418405BF6770B3A4407"
+				"download" "BA33D8C25E01F53D23DD72855E55A90F"
+			}
+			"devmain"
+			{
+				"gid" "89B13D6521E31667EC87A9F57E48A6E7"
+				"size" "0F143D704D76F961379AA856ED5C2745"
+				"download" "1035A4E92749C40850E96D75430BA07F"
+			}
+			"main"
+			{
+				"gid" "0B14980D53B13B0EC5F5D8BABF1BE01D"
+				"size" "D5C6EEE2B7CEA71C790E23D2F83A7B1E"
+				"download" "479CA3115CD9D8C6AE31169E0C1C762E"
+			}
+			"playtest1"
+			{
+				"gid" "671C75D8E047156E41B1AFD4D07D6A8F"
+				"size" "CD37B3AFF8FBED908C6D34970B53CFEE"
+				"download" "C8E21E4CBF5B1F8C6DEF245276028455"
+			}
+			"qavalidation"
+			{
+				"gid" "CDBF561F389F3616468E3DA5D729C0F5"
+				"size" "0785BF81E66B97B23070AE332889AFC6"
+				"download" "4B4507829426408C613F0D39C1B6B4F5"
+			}
+			"rcpc"
+			{
+				"gid" "AC38049988501D54A543A7D4379CCBBC"
+				"size" "2BE749C9471F06158CE2F4EF2257E20E"
+				"download" "FA026E7C443E5885FEEB78833A8561E3"
+			}
+			"relpc"
+			{
+				"gid" "3C2381B7534E6A9E40F31B0C7A12CCE2"
+				"size" "9E44C39A57A9BF33D292278E848CA183"
+				"download" "AAEA56F1E53955C91DDB16862E29A2B1"
+			}
+		}
+	}
+	"1158673"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4477968077696073450"
+				"size" "233119877"
+				"download" "231547472"
+			}
+			"local"
+			{
+				"gid" "980781255604282104"
+				"size" "233118604"
+				"download" "231547536"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"babylonstable"
+			{
+				"gid" "3B3D7E18F5BC7995E2F7CEFA88FD49A9"
+				"size" "11F4FD7BD21C90FF160AC173A74C6357"
+				"download" "933D98B9DB12C807367F7E8383603B86"
+			}
+			"devmain"
+			{
+				"gid" "D0B40C853E88BE17E5E2AA770AE239F1"
+				"size" "01E7C59829055FD73AD5264F50262E41"
+				"download" "083C1C63CE5F1F66B6B01A1D43052A9A"
+			}
+			"main"
+			{
+				"gid" "5404E8513985C813527170F02A2903E6"
+				"size" "14178F54F361BEFAE60604B90FC5A6C2"
+				"download" "D9030B0D04620F9EBE35E9EBC7F5917A"
+			}
+			"playtest1"
+			{
+				"gid" "CEEF4226FB0DDF50585600BEED6A8B35"
+				"size" "C72FC48C1B0530BC63E1060ED24086D7"
+				"download" "85BA3E4DB15D84B43389BD35B41B5CF5"
+			}
+			"qavalidation"
+			{
+				"gid" "028DB54FBAC4C620FF217F02B52AE22B"
+				"size" "ACEE46AEA8AC9E804C7F13FB77B236AB"
+				"download" "6EDC7AE6DD5D63E16F0F38A2599EF384"
+			}
+			"rcpc"
+			{
+				"gid" "0D880F70CD3825F545DFA8A8451C2DBE"
+				"size" "BC132E6AD04D5ECBD589E5AAB3AB63BF"
+				"download" "FFB12AC4076537C036385183450B0052"
+			}
+			"relpc"
+			{
+				"gid" "335179E9EF0C93E45FA4AAD3BC58594A"
+				"size" "09066B0F65CB8A405EBF0D1EF9FFF780"
+				"download" "872AC4EF7E3CA81B64661F3B6D8D4986"
+			}
+		}
+	}
+	"1158674"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2068266552754296411"
+				"size" "233128469"
+				"download" "231561088"
+			}
+			"local"
+			{
+				"gid" "310450104132768274"
+				"size" "233127196"
+				"download" "231561152"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"babylonstable"
+			{
+				"gid" "01A3299B894838D7F5F1622589AFFAAB"
+				"size" "5B1C62399964B01854AC03B922299C99"
+				"download" "05B4E4E357C73379C6A1BBD3C62BEFE4"
+			}
+			"devmain"
+			{
+				"gid" "9991489B9FECEBBDF5630F4A92646755"
+				"size" "443648A961834FB26BB8763A94933893"
+				"download" "17C79385EB14F4B1C78C0CF43B7C9A76"
+			}
+			"main"
+			{
+				"gid" "2829B8193EC2038D4587A05548A17211"
+				"size" "C30DC8F0147CEBEF9BCFAB3577482BE0"
+				"download" "CACE4E688BE91D93605EFEC9010D2E49"
+			}
+			"playtest1"
+			{
+				"gid" "B64E1C009D8067F832D14722F33B8A12"
+				"size" "E848D55E22CD569998D4C258EDD2900D"
+				"download" "DB2126C53651928FBFA602A7D7F61CD6"
+			}
+			"qavalidation"
+			{
+				"gid" "AAB14709296ECE05D497A8B02EC7795F"
+				"size" "8987FEC4422F7FD674DA63EF4D5CFD7D"
+				"download" "52AF45A551EB4C63E4D8443BDDE46261"
+			}
+			"rcpc"
+			{
+				"gid" "E155F1183BFDF6D07DF7FC839B2729EF"
+				"size" "7B0E67BBA3B1F97976007E368E3BCFC0"
+				"download" "393A16AE055B7B443148C56AA2C9C622"
+			}
+			"relpc"
+			{
+				"gid" "482920CB1E89831C68188B9C4625B07B"
+				"size" "EC97DAB28E60AA22E5AAF5937CE82694"
+				"download" "C06878E85D3840EF979EFB0CA090C8B5"
+			}
+		}
+	}
+	"1158675"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5273476056211310681"
+				"size" "233120907"
+				"download" "231563904"
+			}
+			"local"
+			{
+				"gid" "2952870897367060775"
+				"size" "233119634"
+				"download" "231563968"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"babylonstable"
+			{
+				"gid" "277B1035F54F8DE6B0766F13A637CA13"
+				"size" "5D1AA14D918EEF1658B6741DCC0586AB"
+				"download" "8573BBE9B19A7809CAEBA1067B6AB4A4"
+			}
+			"devmain"
+			{
+				"gid" "A6F3EB221D11F37DCE8BEF6F103C8051"
+				"size" "C29CC9A70CA60F47EDB49C3A862D9623"
+				"download" "8518CB790CAD22A097F0046C12E2D8DA"
+			}
+			"main"
+			{
+				"gid" "64AA35B89234D6BCF8656185C0F32DD2"
+				"size" "B6275C6FA63777B3321F0785C3D10A1F"
+				"download" "FC144E4B4430495046A7F1CA9F2E83F9"
+			}
+			"playtest1"
+			{
+				"gid" "73A7B10A5F6527A52FB63E52493577E3"
+				"size" "7436A396797F1A010DCDB2BB5B92458E"
+				"download" "1A79FBF624CE59056B8AAD0F50745175"
+			}
+			"qavalidation"
+			{
+				"gid" "43D1407D0BB1DD05981CED95A3899131"
+				"size" "EA36BC43AB9DC9F812A209F6A1D2DAD7"
+				"download" "4EB2C722E2A660D48F33B14101295D5B"
+			}
+			"rcpc"
+			{
+				"gid" "71619E0E91BCF451DE50442CCE4D9875"
+				"size" "8A4A060556EC50D411027D82680D0E24"
+				"download" "84EE0F40A30412D46D8E1D2C60C44CA0"
+			}
+			"relpc"
+			{
+				"gid" "3F89046D56E19489E127FA04E655E13B"
+				"size" "791A3369AA8E7268E9D40D4C2120B4FF"
+				"download" "864F7A0D6EBBB561BCA3A895F21EC421"
+			}
+		}
+	}
+	"1158676"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7992525589901974342"
+				"size" "233125797"
+				"download" "231547456"
+			}
+			"local"
+			{
+				"gid" "5018266896595452940"
+				"size" "233124524"
+				"download" "231547520"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"babylonstable"
+			{
+				"gid" "BEFB125DA05697A85DDC06637B1B95B8"
+				"size" "40D446D308C0C7667763CD9AA2064521"
+				"download" "BCECB4CEC34B27D6B2C3F37C4750E28F"
+			}
+			"devmain"
+			{
+				"gid" "4328339E0F7890F009DCA436FAA09937"
+				"size" "BEBB1A863E5F92684BF4D513DEF5B1DD"
+				"download" "5361FA19DE3F49D9B02BC65BE1814AE5"
+			}
+			"main"
+			{
+				"gid" "9576800390B6E348CF00F0A763073EDC"
+				"size" "3D7198C99AC6D11E6689644F37131611"
+				"download" "C343CC75984B454BB742A6D755E47C78"
+			}
+			"playtest1"
+			{
+				"gid" "736843106CF1D3C73717053833A4552D"
+				"size" "BED871E608F5E667BD21E70A961D76C0"
+				"download" "85DAE323CF7A1AFC889D848B8F56F286"
+			}
+			"qavalidation"
+			{
+				"gid" "58227D96107765659B5D401F58D9BE50"
+				"size" "66B050C35F8EC1A4AF46C0310537336F"
+				"download" "5EB7C9BA482BB2EADE3AB5A9C083156E"
+			}
+			"rcpc"
+			{
+				"gid" "6323806C74958B3A97E67C2DB3606FEF"
+				"size" "8C1AA2F4C3484185B02C02B35377E075"
+				"download" "1A9AB2FFEB4D6F134BB9630472FE2C7C"
+			}
+			"relpc"
+			{
+				"gid" "B8FF4CADFE94C2290F411BA91FE3F602"
+				"size" "73A85D61927FC15499D4F7450DA65856"
+				"download" "F9DBB3EA0AEACD0BE61401A6EC96298D"
+			}
+		}
+	}
+	"1158677"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4663582399644863016"
+				"size" "3203114228"
+				"download" "2165482336"
+			}
+			"local"
+			{
+				"gid" "1466665496438162328"
+				"size" "1615160701"
+				"download" "1234713120"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"babylonstable"
+			{
+				"gid" "DB09FA030B6FFD9A2D93351A15804A9D"
+				"size" "DCDDEBD82A9BD0948FEE53ED3C032B70"
+				"download" "E729CA6F7E2DE7D047F3774433313D4C"
+			}
+			"devmain"
+			{
+				"gid" "88947543327D70EB83E41243179A4460"
+				"size" "A7E4CCB7DE59682C8D91CED3F3C6B96A"
+				"download" "DF0E842F3D82AAF891FE5FFBF32D3E60"
+			}
+			"main"
+			{
+				"gid" "4C17F1436A7C039048CAC714E4262364"
+				"size" "4ACC3554A14632E49215F61481EA6AE3"
+				"download" "9FC548B523D3B789857A09F938932A2F"
+			}
+			"playtest1"
+			{
+				"gid" "66ECC29FB1F2967E767F4BCAC433E53E"
+				"size" "C34133D9627B5163AD808797B51B58B9"
+				"download" "23CD6918B161080F48C6BD013B0CE6FB"
+			}
+			"qavalidation"
+			{
+				"gid" "C175D41B07C44599F73C718954F0607D"
+				"size" "B075143FF3DBB75FB867F2127ED1C73A"
+				"download" "DB7DF4AFFF845F0D900C233CFB754122"
+			}
+			"rcpc"
+			{
+				"gid" "CEF61ADF8ADACE7EC8E004266DF55C9F"
+				"size" "D4585A8F438F4BBA4F337FF206E8B158"
+				"download" "7A3DB663930514837EE7064D8EA50707"
+			}
+			"relpc"
+			{
+				"gid" "FBE6BA902925B9C0D3D3C5F2150787A5"
+				"size" "27996A1156A83484A80B14EF8F96E7E0"
+				"download" "040A70E85C77A9C9396C1956734F4366"
+			}
+		}
+	}
+	"1158678"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4486446359809078947"
+				"size" "233127111"
+				"download" "231561792"
+			}
+			"local"
+			{
+				"gid" "316463032392795421"
+				"size" "1848283051"
+				"download" "1466273584"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"babylonstable"
+			{
+				"gid" "EC26702D278B59AEEA9FC47ED70C7DED"
+				"size" "9838EF45408C987E7126A538471D2C2A"
+				"download" "50744A9C87A0D7412C49B14BC6703643"
+			}
+			"devmain"
+			{
+				"gid" "E13F8ECA884ED14E3936A6C245B0905C"
+				"size" "ED8FD09065825F30EEE4199A0FCD28DE"
+				"download" "2A42063308A1FED5CB8B9C3528378557"
+			}
+			"main"
+			{
+				"gid" "ECFB53E03BC69D5F62CFCD5085981291"
+				"size" "7A8685A9F3F95351233579E4CAF91A1D"
+				"download" "EC1B5BDC3748F399A8EDF758494C6923"
+			}
+			"playtest1"
+			{
+				"gid" "8AFEE502A536AB35200274666D73EBA2"
+				"size" "FEB6EAADA42B19BF0E0B93A375A4ED92"
+				"download" "58A118F07BB4BEB53757A447B6DD342D"
+			}
+			"qavalidation"
+			{
+				"gid" "4F7A54CCA1390038CE03E314B44FED47"
+				"size" "98E09983E9138BD9B6D7FF3A91AE2DE3"
+				"download" "A6B982E6A1C43FDC7B95DEF395302D2D"
+			}
+			"rcpc"
+			{
+				"gid" "296C0146F6AC9D6E0A2386178AA3D4B9"
+				"size" "A8012A12D48795B8A8387C26FB400812"
+				"download" "7C667E2A9CEE301CB934A88AD1F8312A"
+			}
+			"relpc"
+			{
+				"gid" "3033B8C93F2D2A6A8782A09048B657BC"
+				"size" "17610529273AD6A3E332E8AB18BD7BD3"
+				"download" "42AC175A7953AB3C6A5939C9EBC0A629"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13304627"
+			"timeupdated" "1706627235"
+		}
+		"babylonstable"
+		{
+			"buildid" "9806501"
+			"pwdrequired" "1"
+			"timeupdated" "1666812469"
+		}
+		"devmain"
+		{
+			"buildid" "13346168"
+			"pwdrequired" "1"
+			"timeupdated" "1706871680"
+		}
+		"local"
+		{
+			"buildid" "4735078"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1583178231"
+		}
+		"main"
+		{
+			"buildid" "13351508"
+			"pwdrequired" "1"
+			"timeupdated" "1706904906"
+		}
+		"playtest1"
+		{
+			"buildid" "5105105"
+			"pwdrequired" "1"
+			"timeupdated" "1591283062"
+		}
+		"qavalidation"
+		{
+			"buildid" "13304627"
+			"pwdrequired" "1"
+			"timeupdated" "1706551758"
+		}
+		"rcpc"
+		{
+			"buildid" "13257370"
+			"pwdrequired" "1"
+			"timeupdated" "1706086467"
+		}
+		"relpc"
+		{
+			"buildid" "13330674"
+			"pwdrequired" "1"
+			"timeupdated" "1706750490"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22177068"
+"_sha" "61a56e9797d8c4a303df289913d88eecba14bad6"
+"_size" "33364"
