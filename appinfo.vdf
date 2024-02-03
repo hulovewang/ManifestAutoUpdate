@@ -1,0 +1,436 @@
+"appid" "2230110"
+"common"
+{
+	"name" "Fae Farm"
+	"type" "Game"
+	"clienticon" "6f469e978ffd14b834e6dfb4c4375a7979735d2f"
+	"clienttga" "ea45796d2f88d6aaa6404d0555343badeca2814b"
+	"icon" "381beb0cf0db04904fbf310287a27a3f0781230a"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1694044800"
+		"tested_build_id" "12036024"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1705944029"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Phoenix Labs"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Phoenix Labs"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_18" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1694188998"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2230110"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "87918"
+		"2" "4057"
+		"3" "97376"
+		"4" "1685"
+		"5" "3859"
+		"6" "1654"
+		"7" "4305"
+		"8" "4726"
+		"9" "4947"
+		"10" "44868"
+		"11" "599"
+		"12" "1684"
+		"13" "5350"
+		"14" "19"
+		"15" "4252"
+		"16" "1697"
+		"17" "3920"
+		"18" "1702"
+		"19" "30358"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"developer" "Phoenix Labs"
+	"publisher" "Phoenix Labs"
+	"homepage" "https://fae.farm/42wj4ZW"
+	"listofdlc" "2480120,2673180"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Fae Farm"
+	"launch"
+	{
+		"3"
+		{
+			"executable" "FaeFarmClient.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"4"
+		{
+			"executable" "FaeFarm/Binaries/Win64/FaeFarmClient-Win64-Test.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "blargle"
+			}
+			"description_loc"
+			{
+				"english" "Test Configuration"
+			}
+			"description" "Test Configuration"
+		}
+	}
+	"uselaunchcommandline" "1"
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "5"
+	"steamconfigurator3rdpartynative" "65533"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2230111"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8770185249200845891"
+				"size" "2591601554"
+				"download" "2179864736"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"blargle"
+			{
+				"gid" "07A3EF9528CD6882ACA79792FD86785C"
+				"size" "5EA6EE63AA8646EB0FE6FCA8BD17AB77"
+				"download" "B18F927DE853093299414F6AB1E376D5"
+			}
+			"default-test"
+			{
+				"gid" "0CE27542AD524848F9900FF00B5EAE66"
+				"size" "6CEE657081668F18F200C1B18A42657A"
+				"download" "3F06CF83222232685C0FF59C47B31596"
+			}
+			"pendingforlive-shipping"
+			{
+				"gid" "2D80A272E22B07854309D2A2C43C0BEA"
+				"size" "795118A10BBEE9E30EE4B5CEC7EBE46C"
+				"download" "68C06A93CA5660C42F59385F1FCCCDEB"
+			}
+			"pendingforlive-test"
+			{
+				"gid" "F58CCD0CA49456F1FC0D3E96C92310D5"
+				"size" "D31C2FCF0FB6DF5F6A904C1BD27B1D5F"
+				"download" "1F71EEABEA2849DCC133A6F22E1DAEBF"
+			}
+			"press"
+			{
+				"gid" "A70A92EE42C44B9C978182891FF21C6C"
+				"size" "A33389CB4312E531D415DC3E44616218"
+				"download" "12622FC901E33945160403B210BA3EDA"
+			}
+			"shipping"
+			{
+				"gid" "5EEE77D0BCEEC1455D4F5FDF822DE35D"
+				"size" "4B67B265A3F4C8C68D4292B030DCC59D"
+				"download" "205216B9054E10798CE6F387BE21EC56"
+			}
+			"staging-shipping"
+			{
+				"gid" "EB44568D0C339F1E43A6F3EDF3A96EC7"
+				"size" "C46CFF6877B3BA5942E375EB5DB85A06"
+				"download" "5F0CAB5C3D0EC34B14DC7645465438ED"
+			}
+			"staging-test"
+			{
+				"gid" "B3BB84D95DCBC22B0A9C758DA041EE62"
+				"size" "AC18A19B2BAA60FE44FBD25929C78418"
+				"download" "0038F27E0742EA960A5A8B01B4B2495D"
+			}
+			"test"
+			{
+				"gid" "E9607B7D3E642A6BF5F4CD20828779B4"
+				"size" "73BAFF3301218D7F09A7A16CA6277CAC"
+				"download" "55F48F20D60570C2DE0F117C3A375D3A"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,brazilian,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13160504"
+			"timeupdated" "1705942889"
+		}
+		"blargle"
+		{
+			"buildid" "13317825"
+			"pwdrequired" "1"
+			"timeupdated" "1706652931"
+		}
+		"default-test"
+		{
+			"buildid" "13160495"
+			"pwdrequired" "1"
+			"timeupdated" "1705942909"
+		}
+		"pendingforlive-shipping"
+		{
+			"buildid" "13160504"
+			"pwdrequired" "1"
+			"timeupdated" "1705095331"
+		}
+		"pendingforlive-test"
+		{
+			"buildid" "13160495"
+			"pwdrequired" "1"
+			"timeupdated" "1705095344"
+		}
+		"press"
+		{
+			"buildid" "12844030"
+			"pwdrequired" "1"
+			"timeupdated" "1702335174"
+		}
+		"shipping"
+		{
+			"buildid" "12976275"
+			"pwdrequired" "1"
+			"timeupdated" "1702674533"
+		}
+		"staging-shipping"
+		{
+			"buildid" "13278219"
+			"pwdrequired" "1"
+			"timeupdated" "1706242861"
+		}
+		"staging-test"
+		{
+			"buildid" "13278209"
+			"pwdrequired" "1"
+			"timeupdated" "1706242771"
+		}
+		"test"
+		{
+			"buildid" "12976263"
+			"pwdrequired" "1"
+			"timeupdated" "1702674442"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "25"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "FaeFarm/Saved/Worlds"
+			"pattern" "*"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "FaeFarm/Saved"
+			"pattern" "*"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"path" "FaeFarm/Saved/SaveGames/Steam"
+			"pattern" "*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22143552"
+"_sha" "08430fd3dfad68fc4734926589a5f74083c7d9a9"
+"_size" "8181"
