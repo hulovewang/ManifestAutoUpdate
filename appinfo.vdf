@@ -1,0 +1,637 @@
+"appid" "271590"
+"common"
+{
+	"name" "Grand Theft Auto V"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "1e72f87eb927fa1485e68aefaff23c7fd7178251"
+	"clienticon" "06b52e09e284542dd99eea45f9f85f68440dbcaf"
+	"clienttga" "7f9833583db3f1f6486d0b24a35266117e48d7d9"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"logo" "e447e82f8b0c67f9e001498503c62f2a187bc609"
+	"logo_small" "e447e82f8b0c67f9e001498503c62f2a187bc609_thumb"
+	"oslist" "windows"
+	"osarch" "64"
+	"exfgls" "1"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "271590_eula_0"
+			"name" "Grand Theft Auto V EULA"
+			"url" "https://store.steampowered.com//eula/271590_eula_0"
+			"version" "1"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"has_adult_content" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1689811200"
+		"tested_build_id" "11431047"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+			"7"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Grand Theft Auto V"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "48.77479579929987"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1671484916"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Rockstar North"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Rockstar Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Grand Theft Auto"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_43" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1428994800"
+	"steam_release_date" "1428966000"
+	"metacritic_score" "96"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/grand-theft-auto-v\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "271590"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "19"
+		"2" "3859"
+		"3" "6378"
+		"4" "1100687"
+		"5" "1697"
+		"6" "3839"
+		"7" "5611"
+		"8" "1774"
+		"9" "21"
+		"10" "4182"
+		"11" "3814"
+		"12" "699"
+		"13" "1685"
+		"14" "3810"
+		"15" "4166"
+		"16" "4136"
+		"17" "1756"
+		"18" "1719"
+		"19" "1669"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"supportscdkeycopytoclipboard" "1"
+	"showcdkeyonlaunch" "0"
+	"showcdkeyinmenu" "1"
+	"allowmicrotxnfromrestrictedcountries" "0"
+	"microtxnrestrictedcountries" "RU,BY"
+	"developer" "Rockstar North"
+	"publisher" "Rockstar Games"
+	"homepage" "http://www.rockstargames.com/V/"
+	"aliases" "gta5, gtav"
+	"listofdlc" "362000,362001,362002,362003,413180,771300"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Grand Theft Auto V"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "PlayGTAV.exe"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "PlayGTAV.exe"
+			"arguments" "-StraightIntoFreemode"
+			"description" "GTA Online"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "GTA5.exe"
+			"arguments" "-nosocialclub"
+			"description" "Grand Theft Auto V Play"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "externalbuilds"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2055647135"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"proton_hotfix" "yes"
+}
+"depots"
+{
+	"depotdeltapatches" "1"
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam"
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"271591"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4915145488431092967"
+				"size" "75635355"
+				"download" "49821152"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"externalbuilds"
+			{
+				"gid" "29FA336F0E63916D62239A72D5780BE0"
+				"size" "6D54C5537FB41A4B3C038F5BA1035426"
+				"download" "7708D7031D352AC2EAF72D1275D980A3"
+			}
+			"qabeta"
+			{
+				"gid" "F525BE7492BD058D5ED2C5C9D5637632"
+				"size" "364F04E4C5CE39A6883F01AC35FE7E93"
+				"download" "F8C49A9E17D6D5F1A5C05E13B341536F"
+			}
+			"qalive"
+			{
+				"gid" "566B68CD86B220E9412031B0B1A0F830"
+				"size" "756503C36215B267D6732251564A0D7E"
+				"download" "8D1574EC5AE1E126E31BE1B10D6FDE58"
+			}
+			"qatest"
+			{
+				"gid" "41182964DFA49E7949A0BE7C47BB13EE"
+				"size" "B79B793C3C16DA047C324D3C587308B2"
+				"download" "3D595F8070BB9ACC93510EB09E98D00A"
+			}
+		}
+	}
+	"271592"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2528090749795659488"
+				"size" "435712"
+				"download" "194416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"externalbuilds"
+			{
+				"gid" "08639064F49FBB337288699B3CB89F2E"
+				"size" "6C549DFA33632401532C74110DE87F70"
+				"download" "F3BFC19D2060AFDE6DC41DF8670CE5AE"
+			}
+			"qabeta"
+			{
+				"gid" "97F53EB4592F03A8CF7440C1E323AD3D"
+				"size" "575E48CD1E271C404029C3EA5E118345"
+				"download" "229F0F4C2422C692BEF7A6A7A31A6C8C"
+			}
+			"qalive"
+			{
+				"gid" "49A673FC7D4D7345437E1328924F23AF"
+				"size" "4623F238A08C6E6F62DD6069E07F945B"
+				"download" "61F258851A3337C353888A04A05094E1"
+			}
+			"qatest"
+			{
+				"gid" "01BB7CBF3CE3180FDC300DBC308FDB5D"
+				"size" "ED38C7DF08F83F2505961877BD8AA805"
+				"download" "3A5E2F3432B39763CC095711EFDA4CF1"
+			}
+		}
+	}
+	"271593"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6533191187872171909"
+				"size" "17888231914"
+				"download" "16813724816"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"externalbuilds"
+			{
+				"gid" "6E5538C67064009EB5CA6A455AF4D462"
+				"size" "4D8E79C5A601B5A4061BA1220BFB4404"
+				"download" "90A08C2528F7073F7AD25D0253AD7DC2"
+			}
+			"qabeta"
+			{
+				"gid" "5613C0B06BB880F12F0590D5D6640C37"
+				"size" "82749C5E07184B1623E20FDD3F47ADBE"
+				"download" "61F7484678A74A39E17F588CCCD280AB"
+			}
+			"qalive"
+			{
+				"gid" "8C5D07C81D9B7147D5D7061968D510AB"
+				"size" "160CEDC3411FEAFAB05F57339C178974"
+				"download" "8EFC671F0CE371B706DD05161E731C3B"
+			}
+			"qatest"
+			{
+				"gid" "F36E6103C969E45BDE8A095DF71D3CFE"
+				"size" "5DF3675AB0BB4B3A6493D8487E72A25B"
+				"download" "A0425E82552AFA5FBAEEEBC457A8DE30"
+			}
+		}
+	}
+	"271594"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "10335962553080800"
+				"size" "61887527912"
+				"download" "60071714320"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"externalbuilds"
+			{
+				"gid" "6D80375E1D61F726C512B4AE24F1C383"
+				"size" "F97F316841B015CE80B25DB27FD28FD4"
+				"download" "48CF699AE5FC6E539C9FD99BB664F18D"
+			}
+			"qabeta"
+			{
+				"gid" "1FE4325FE28967FC7A4A6BA937B66302"
+				"size" "46162E1E3FA80573A3DDEBD9E9F4F0C2"
+				"download" "C463CEB3F58D47AA980F91E684929B17"
+			}
+			"qalive"
+			{
+				"gid" "BE7AD23EB4689F5CB1EE447F89A71C67"
+				"size" "7EA174A89C4E24D183018F9D975CC305"
+				"download" "F01D1487299514917114B93EA045E7E3"
+			}
+			"qatest"
+			{
+				"gid" "DCBF6D33651B9F5CF56849D7DE5715E2"
+				"size" "6F572919001B53F3F7192D3E849132D7"
+				"download" "572520E665CA345072CAD0CAA39F28E3"
+			}
+		}
+	}
+	"271595"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4898511214642125194"
+				"size" "39435642880"
+				"download" "39063563072"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"externalbuilds"
+			{
+				"gid" "D512DB636C143B376202CDFA3F15CC63"
+				"size" "59CD9A5D00EF5767A90E5F526036B873"
+				"download" "761E169C8819B72C2A69C2F577AFE71B"
+			}
+			"qabeta"
+			{
+				"gid" "89ED932CE526809C83AA722246F33340"
+				"size" "DC37170355C37B6E32245B4FC24EFA72"
+				"download" "EBA0D37F31797C48B2B6EC681765883F"
+			}
+			"qalive"
+			{
+				"gid" "FE2649D1B017781ABF65091E74A0ACCD"
+				"size" "45FDCD8400877D41C100476A32841EEE"
+				"download" "B76D89AECEB82877EB90365DA62FC2ED"
+			}
+			"qatest"
+			{
+				"gid" "000EC869FB2055C0BF965470E1C92B2C"
+				"size" "4907253250E96E46BCF8B3D54D6B4488"
+				"download" "AB4781369E1A3EB69A0A206C1661FC4D"
+			}
+		}
+	}
+	"1899671"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4486192579024040170"
+				"size" "218724637"
+				"download" "207094592"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qabeta"
+			{
+				"gid" "B753591EFDE24A1A787ACC83FFF7C6F4"
+				"size" "1B68DBD090ABB994CED9FD759B5FD4E4"
+				"download" "D47C32CA545D0CA4F4888A8797357A22"
+			}
+			"qalive"
+			{
+				"gid" "3E03612684FCC8382ECB7290D44EF633"
+				"size" "7B9F9385F7469D0F6426C9384255EB54"
+				"download" "5D6D4B541840164DB19183D98F4DFF3E"
+			}
+			"qatest"
+			{
+				"gid" "89A7F77D87002B64372890785A24288D"
+				"size" "C716E0A56BB40F012DAF9F461C73B10D"
+				"download" "EA5AB1DC834877714AF34FBCD555F146"
+			}
+		}
+		"depotfromapp" "1899670"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13185010"
+			"timeupdated" "1706625472"
+		}
+		"externalbuilds"
+		{
+			"buildid" "5295994"
+			"pwdrequired" "1"
+			"timeupdated" "1594918959"
+		}
+		"qabeta"
+		{
+			"buildid" "13241541"
+			"pwdrequired" "1"
+			"timeupdated" "1705954570"
+		}
+		"qalive"
+		{
+			"buildid" "13350555"
+			"pwdrequired" "1"
+			"timeupdated" "1706897701"
+		}
+		"qatest"
+		{
+			"buildid" "13185010"
+			"pwdrequired" "1"
+			"timeupdated" "1705412334"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "0"
+	"maxnumfiles" "0"
+}
+"_missing_token" "False"
+"_change_number" "22175434"
+"_sha" "b5d0d38535e6bb21722803458c9e3143a2428be0"
+"_size" "12862"
